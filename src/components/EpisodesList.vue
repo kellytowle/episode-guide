@@ -1,8 +1,8 @@
 <template>
   <div>
-    <h1>{{ this.filterTerm }}</h1>
+    <h1>{{ this.term }}</h1>
     <ul>
-      <li v-for="episode in episodes" :key="episode.id">
+      <li v-for="episode in filteredEpisodes" :key="episode.id">
         {{ episode.title }}
       </li>
     </ul>
@@ -14,7 +14,8 @@ export default {
   name: 'EpisodesList',
   data () {
     return {
-      episodes: []
+      episodes: [],
+      filteredEpisodes: []
     }
   },
   props: ['filterTerm'],
@@ -29,7 +30,19 @@ export default {
   computed: {
     term () {
       console.log('filterTerm from parent: ', this.filterTerm)
+      this.filterEpisodes()
       return this.filterTerm
+    }
+  },
+  methods: {
+    filterEpisodes () {
+      this.filteredEpisodes = []
+      this.episodes.forEach(episode => {
+        console.log('episode: ', episode)
+        if (episode.title.includes(this.filterTerm)) {
+          this.filteredEpisodes.push(episode)
+        }
+      })
     }
   }
 }
