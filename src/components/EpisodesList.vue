@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>{{ this.term }}</h1>
     <ul>
       <li v-for="episode in filteredEpisodes" :key="episode.id">
         {{ episode.title }}
@@ -21,17 +20,20 @@ export default {
   props: ['filterTerm'],
   mounted () {
     this.episodes = [
-      { title: 'Episode 1' },
-      { title: 'Episode 2' },
-      { title: 'Episode 3' },
-      { title: 'Episode 4' }
+      { title: 'Ham sandwich' },
+      { title: 'Green eggs and ham' },
+      { title: 'hamburger' },
+      { title: 'Something Newburg' }
     ]
+    this.filterEpisodes()
   },
-  computed: {
-    term () {
-      console.log('filterTerm from parent: ', this.filterTerm)
-      this.filterEpisodes()
-      return this.filterTerm
+  watch: {
+    filterTerm: function (newVal, oldVal) {
+      if (newVal !== oldVal) {
+        console.log('filterTerm from parent: ', this.filterTerm)
+        this.filterEpisodes()
+        // return this.filterTerm
+      }
     }
   },
   methods: {
@@ -39,7 +41,8 @@ export default {
       this.filteredEpisodes = []
       this.episodes.forEach(episode => {
         console.log('episode: ', episode)
-        if (episode.title.includes(this.filterTerm)) {
+        const title = episode.title.toLowerCase()
+        if (!this.filterTerm || title.includes(this.filterTerm.toLowerCase())) {
           this.filteredEpisodes.push(episode)
         }
       })

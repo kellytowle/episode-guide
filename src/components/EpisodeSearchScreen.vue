@@ -1,9 +1,7 @@
 <template>
   <main>
-    <div><h1>HOWDY</h1></div>
     <section>
       <input id="filter" type="text" v-model="filterTerm" />
-      <p>Term is: {{ filterTerm }}</p>
     </section>
     <section>
       <episodes-list :filterTerm="filterTerm"></episodes-list>
