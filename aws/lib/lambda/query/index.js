@@ -47,7 +47,7 @@ let rejecter
 const getS3Json = function(event, showKey) {
   s3.getObject(
     {
-      Bucket: "kt-episode-guide",
+      Bucket: process.env.S3_BUCKET,
       Key: `data/${showKey}/${showKey}.json`,
     },
     (err, data) => {

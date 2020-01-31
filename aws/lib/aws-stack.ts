@@ -15,19 +15,18 @@ export class AwsStack extends cdk.Stack {
 
   constructor(scope: cdk.Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props)
-
     // The code that defines your stack goes here
     this.rootDir = PATH_TO_ROOT
 
     this.bucket = new S3.Bucket(this, "EpisodeGuideBucket", {
-      bucketName: "kt-episode-guide",
+      bucketName: process.env.S3_BUCKET,
     })
     this.bucketPolicy = new PolicyStatement({
       resources: [this.bucket.bucketArn],
       effect: Effect.ALLOW,
       actions: ["s3:ListBucket", "s3:GetBucketLocation"],
     })
-    this.lambdas = new EpisodeGuideLambdas(this)
+    this.lambdas = new EpisodeGuideLambdas(this, this.bucket.bucketName)
 
     this.bucketPolicy.addPrincipals(
       this.lambdas.query.grantPrincipal,
