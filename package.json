@@ -1,0 +1,23 @@
+{
+  "name": "kt-episode-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kellytowle/episode-guide.git",
+  "author": "Kelly Towle <kelly.towle@substantial.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^4.2.1",
+    "prettier": "1.19.1",
+    "pretty-quick": "^2.0.1",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.1.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  },
+  "dependencies": {
+    "@aws-cdk/aws-iam": "^1.22.0"
+  }
+}
