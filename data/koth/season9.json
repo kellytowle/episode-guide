@@ -1,0 +1,242 @@
+[
+  {
+    "episode": 1,
+    "id": "s09e01",
+    "broadcast": {
+      "year": "2004",
+      "month": "11",
+      "date": "07"
+    },
+    "title": "A Rover Runs Through It",
+    "summary": "The Hills travel to Montana to visit Peggy's mother for Thanksgiving. There, they find out the family is losing the ranch to Henry Winkler because of high property taxes.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU3OTMzOTc4OV5BMl5BanBnXkFtZTgwNzAxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 2,
+    "id": "s09e02",
+    "broadcast": {
+      "year": "2004",
+      "month": "12",
+      "date": "19"
+    },
+    "title": "Ms. Wakefield",
+    "summary": "When an elderly stranger, Ms. Wakefield (voice of Marion Ross), visits the Hill residence during Christmas, Hank is thrilled to show her his house since it was also her childhood home. However, when Ms. Wakefield announces that she wants to die in their house, Hank and Peggy want nothing more than for her to leave, despite her bothersome insistence.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Marion Ross"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI1NjY1MjYwOF5BMl5BanBnXkFtZTgwODQyODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 3,
+    "id": "s09e03",
+    "broadcast": {
+      "year": "2005",
+      "month": "01",
+      "date": "16"
+    },
+    "title": "Death Buys a Timeshare",
+    "summary": "Cotton inherits $10,000 from the will of his friend Topsy, and goes to Mexico, with Bill in tow, to buy a timeshare. Feeling lonely after the death of his friend, Cotton gets suckered in by tales of the timeshare development's owner, O'Kelly, and decides to buy—even though Americans cannot own land in Mexico. Meanwhile during a heatwave in Arlen, Peggy, Bobby and Dale search for a pool to swim in.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI4NDg3MTI2Ml5BMl5BanBnXkFtZTgwMjM2NDg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 4,
+    "id": "s09e04",
+    "broadcast": {
+      "year": "2005",
+      "month": "01",
+      "date": "23"
+    },
+    "title": "Yard, She Blows!",
+    "summary": "Peggy is jealous that Hank always gets complimented on his yard, so she starts a garden in the front yard. When that plan fails, she puts Winklebottom the garden gnome in their front yard, which drives Hank insane.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxODA1MDY3MV5BMl5BanBnXkFtZTgwNjM5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 5,
+    "id": "s09e05",
+    "broadcast": {
+      "year": "2005",
+      "month": "01",
+      "date": "30"
+    },
+    "title": "Dale to the Chief",
+    "summary": "When Dale reads Joseph the Warren Commission Report, he notices the absence of a discrepancy in the positioning of the local landmarks, decides that the U.S. government must be right about who assassinated John F. Kennedy (and thus, their official version of every story he had previously written off as part of some conspiracy is in fact completely factual) and turns his government-hating, right-wing mania. Meanwhile, Hank discovers a mistake on his driver's license and is sent through a boatload of red tape in order to fix it—a task made all the more onerous when Dale reports Hank as a threat to America's national security.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NjExMDg4MV5BMl5BanBnXkFtZTgwMTM2NDg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 6,
+    "id": "s09e06",
+    "broadcast": {
+      "year": "2005",
+      "month": "02",
+      "date": "13"
+    },
+    "title": "The Petriot Act",
+    "summary": "When Hank agrees to take in a soldier's pet, he gets Duke, a vicious, mean-spirited cat, against Hank's wishes. Hank takes Duke to visit Dr. Leslie (voice of Jason Bateman), a veterinarian who runs a battery of tests and presents Hank with a bill for several thousand dollars.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Jason Bateman"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI3NTQ1NDMwMF5BMl5BanBnXkFtZTgwMDUwODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 7,
+    "id": "s09e07",
+    "broadcast": {
+      "year": "2005",
+      "month": "02",
+      "date": "20"
+    },
+    "title": "Enrique-cilable Differences",
+    "summary": "Hank's co-worker Enrique is having marital problems, and starts spending all his time with Hank. Meanwhile, Bobby tries to unblock the Fox network from the Hills' TV in order to watch the Daytona 500.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTcwMzU1MTQ0OV5BMl5BanBnXkFtZTgwMTQ5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 8,
+    "id": "s09e08",
+    "broadcast": {
+      "year": "2005",
+      "month": "03",
+      "date": "06"
+    },
+    "title": "Mutual of Omabwah",
+    "summary": "When Hank forgets to mail his insurance payment, Hank and Bobby must protect themselves from any accidents until their insurance can be re-activated in 36 hours. Meanwhile, Dale decides to raise bees, Bill and Boomhauer discover the joys of deep-frying, and Peggy and Luanne get stuck at a rest stop when Hank asks them not to drive uninsured.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxNzkyNDQxNl5BMl5BanBnXkFtZTgwMzYyODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 9,
+    "id": "s09e09",
+    "broadcast": {
+      "year": "2005",
+      "month": "03",
+      "date": "13"
+    },
+    "title": "Care-Takin' Care of Business",
+    "summary": "When the Tom Landry Middle School football team has to forfeit a game due to poor field maintenance when the caretaker goes senile, the booster club resolves to replace the school's elderly groundskeeper, Smitty (voice of Christopher Lloyd), and Hank resolves to help him keep his job by secretly doing upkeep on the field. Meanwhile, Luanne starts dating a redneck named Lucky (first seen in \"The Redneck on Rainey Street\"), much to Peggy's dismay.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Christopher Lloyd"],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjIxMDU4ODExMF5BMl5BanBnXkFtZTgwMTAxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 10,
+    "id": "s09e10",
+    "broadcast": {
+      "year": "2005",
+      "month": "03",
+      "date": "27"
+    },
+    "title": "Alren City Bomber",
+    "summary": "To pay off her credit card debts, Luanne signs up to be a roller derby girl. Peggy gets in on it too and uses borrowed money to make improvements on the team, sinking both Luanne and Peggy deeper into debt.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjMxMTE4NF5BMl5BanBnXkFtZTgwNDYxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 11,
+    "id": "s09e11",
+    "broadcast": {
+      "year": "2005",
+      "month": "04",
+      "date": "10"
+    },
+    "title": "Redcorn Gambles with His Future",
+    "summary": "Hank is in charge of organizing the Strickland Family Fun Day. Meanwhile, John Redcorn and his band \"Big Mountain Fudgecake\" are having trouble finding a venue to play their music. Acting on Hank's advice, John Redcorn uses his land to open a casino so his band can have a place to play.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxMzcxMjUyOV5BMl5BanBnXkFtZTgwMzk4MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 12,
+    "id": "s09e12",
+    "broadcast": {
+      "year": "2005",
+      "month": "04",
+      "date": "17"
+    },
+    "title": "Smoking and the Bandit",
+    "summary": "When Arlen bans smoking in all restaurants and bars, Dale becomes the rebellious \"Smoking Bandit\" to impress Joseph. Meanwhile, Peggy decides to tail the \"Bandit\" and unmask him.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Tone Lōc"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjIyMTMzNF5BMl5BanBnXkFtZTgwODA5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 13,
+    "id": "s09e13",
+    "broadcast": {
+      "year": "2005",
+      "month": "05",
+      "date": "01"
+    },
+    "title": "Gone with the Windstorm",
+    "summary": "When Channel 84 hires a new meteorologist, Irv Bennett, Nancy and her less-than-accurate weather reports are left out in the cold -- and the only way back to being hot is for Nancy to cover news of a forest fire. Meanwhile, Bobby tries to fight back against a bully who springs out and scares his victims.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQwOTg0MTk3N15BMl5BanBnXkFtZTgwODI2NDg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 14,
+    "id": "s09e14",
+    "broadcast": {
+      "year": "2005",
+      "month": "05",
+      "date": "08"
+    },
+    "title": "Bobby on Track",
+    "summary": "Upset with Bobby's habit of giving up what he starts (after Bobby does not complete the miles needed to run for a charity race), Hank puts Bobby on the school's track team, but soon learns that the coach only wants Bobby as a \"Stick\" so he can push the other team members to do better.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMzEwNzY0MzIyN15BMl5BanBnXkFtZTgwMTMxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  },
+  {
+    "episode": 15,
+    "id": "s09e15",
+    "broadcast": {
+      "year": "2005",
+      "month": "05",
+      "date": "15"
+    },
+    "title": "It Ain't Over 'th the Fat Neighbor Sings",
+    "summary": "Bill joins an all-male chorus (based on a real Dallas-based men's chorus called The Vocal Majority) who end up using Bill and forcing him to blow off his appointment to cut the general's hair at the Army base. Meanwhile, Peggy and Bobby get caught up in a game of Pong after Peggy finds her old Atari console in the closet.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA1MjU0NjE3OF5BMl5BanBnXkFtZTgwNTMyODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/2/26/KOTH_S9.jpg"
+  }
+]

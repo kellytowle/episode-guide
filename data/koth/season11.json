@@ -1,0 +1,194 @@
+[
+  {
+    "episode": 1,
+    "id": "s11e01",
+    "broadcast": {
+      "year": "2007",
+      "month": "01",
+      "date": "28"
+    },
+    "title": "The Peggy Horror Picture Show",
+    "summary": "Peggy, feeling a bit unfeminine because of her masculine clothes and size-16 feet, befriends Carolyn, who views Peggy as the epitome of womanhood. Hank is thrilled that Peggy finally has someone else to talk to about her girl problems, but discovers that Carolyn is a drag queen who thinks Peggy is one too.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAwNzgwNjYwOTBeQTJeQWpwZ15BbWU4MDcxMTI4NDIx._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 2,
+    "id": "s11e02",
+    "broadcast": {
+      "year": "2007",
+      "month": "02",
+      "date": "11"
+    },
+    "title": "serPUNt",
+    "summary": "When a python Lucky gives to Bobby as a gift gets into the toilet, Hank calls on Tommy (guest-voiced by John Goodman) and Rollo at Animal Control for help. But instead of taking care of the problem, they make the city believe that the problem is worse than it is in order to get higher salaries, causing panic.",
+    "characters": [],
+    "tags": [],
+    "guests": ["John Goodman"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU3NDU1Njg4OV5BMl5BanBnXkFtZTgwNjg1MTg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 3,
+    "id": "s11e03",
+    "broadcast": {
+      "year": "2007",
+      "month": "02",
+      "date": "18"
+    },
+    "title": "Blood and Sauce",
+    "summary": "Bill is conflicted between keeping his family legacy alive and selling out when his effeminate cousin, Gilbert (last seen on \"A Beer Can Named Desire\"), arrives to tell him that everyone in the Dauterive family is either dead, has gone insane, can't have children, or not blood-related and tries to stop him from selling his family's barbecue sauce recipe to Mr. Strickland.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE5MzY2NDI4NV5BMl5BanBnXkFtZTgwNTc1MTg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 4,
+    "id": "s11e04",
+    "broadcast": {
+      "year": "2007",
+      "month": "03",
+      "date": "25"
+    },
+    "title": "Luanne Gets Lucky",
+    "summary": "Lucky neglects Luanne when he becomes obsessed with retrieving a walnut tree stump his grandfather found, so Luanne accepts a 15-year-old's invitation to the senior prom (as her abusive parents kept her from going to the prom when she was a teenager).",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTEzNTIxMzQ3NjReQTJeQWpwZ15BbWU4MDI5MDM5NDIx._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 5,
+    "id": "s11e05",
+    "broadcast": {
+      "year": "2007",
+      "month": "04",
+      "date": "01"
+    },
+    "title": "Hank Gets Dusted",
+    "summary": "Hank is devastated when Cotton's Cadillac is given to Hank's cousin Dusty (voice of ZZ Top's Dusty Hill), but when Dusty and his bandmates show up at Hank's house to play practical jokes for a reality show taping, it is more than Hank can bear.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Dusty Hill"],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzkwNDY3Njk4OF5BMl5BanBnXkFtZTgwNDAxMzk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 6,
+    "id": "s11e06",
+    "broadcast": {
+      "year": "2007",
+      "month": "04",
+      "date": "22"
+    },
+    "title": "Glen Peggy Glen Ross",
+    "summary": "Peggy is fired from The Arlen Bystander and begins a new career as a real estate agent. Meanwhile, after Dale buys a set of titanium golf clubs at a police auction, he gives the clubs to Hank, who does not want them after learning they were used as a murder weapon.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjExODI4NTU1MV5BMl5BanBnXkFtZTgwNDYzOTg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 7,
+    "id": "s11e07",
+    "broadcast": {
+      "year": "2007",
+      "month": "04",
+      "date": "29"
+    },
+    "title": "The Passion of Dauterive",
+    "summary": "Bill searches for meaning in his life after surviving a roof collapse, leading to a relationship with Reverend Stroup.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDkzMzMzMV5BMl5BanBnXkFtZTgwNzEzOTg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 8,
+    "id": "s11e08",
+    "broadcast": {
+      "year": "2007",
+      "month": "04",
+      "date": "29"
+    },
+    "title": "Grand Theft Arlen",
+    "summary": "Hank protests against a new school program that lets failing gym students play video games—and becomes addicted to Pro-Pain, a Grand Theft Auto knockoff centered on propane and featuring Hank as the protagonist. Meanwhile, Bobby trains for the Presidential Physical Fitness Test.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQyMTk3NzU0NV5BMl5BanBnXkFtZTgwNTA2MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 9,
+    "id": "s11e09",
+    "broadcast": {
+      "year": "2007",
+      "month": "05",
+      "date": "06"
+    },
+    "title": "Peggy's Gone to Pots",
+    "summary": "Peggy's attempts at selling houses in the gated community Arlen Heights lands her in trouble with a scam kitchen supply company after Peggy unwittingly takes Ted Wassanasong's wife's place as a saleslady. Meanwhile, Dale encounters the man whose name he's been using as an alias for years (Rusty Shackleford).",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjc3MzMyMl5BMl5BanBnXkFtZTgwODA2MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 10,
+    "id": "s11e10",
+    "broadcast": {
+      "year": "2007",
+      "month": "05",
+      "date": "13"
+    },
+    "title": "Hair Today, Gone Tomorrow",
+    "summary": "Nancy turns to her mother (voiced by Rue McClanahan) for help when the stress of home life and unresolved feelings for John Redcorn cause her to lose her hair. Meanwhile, Dale takes a ride with Kahn's delinquent nephew in a souped-up racecar during the vernal equinox and thinks he has traveled through time.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Rue McClanahan"],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzYyMzI2MjYwMF5BMl5BanBnXkFtZTgwNzA5MTg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 11,
+    "id": "s11e11",
+    "broadcast": {
+      "year": "2007",
+      "month": "05",
+      "date": "20"
+    },
+    "title": "Bill, Bulk, and the Body Buddies",
+    "summary": "Bill meets a body builder named Dirk who agrees to help him train for an upcoming Army physical, but when Bill starts working out with Dirk and his two meathead buddies, Bill develops a bad attitude and alienates his former friends. Randy Savage guests as one of the bodybuilders.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Randy Savage"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NzExMDM2Ml5BMl5BanBnXkFtZTgwNjQ2MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  },
+  {
+    "episode": 12,
+    "id": "s11e12",
+    "broadcast": {
+      "year": "2007",
+      "month": "05",
+      "date": "20"
+    },
+    "title": "Lucky's Wedding Suit",
+    "summary": "When Lucky wants to give Luanne the expensive wedding that she desires, he sues Dale with a frivolous lawsuit after having an accident on the job.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI5NDUzNTg0Ml5BMl5BanBnXkFtZTgwMjQ2MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/0/0b/KOTH_S11.jpg"
+  }
+]

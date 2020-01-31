@@ -1,0 +1,242 @@
+[
+  {
+    "episode": 1,
+    "id": "s10e01",
+    "broadcast": {
+      "year": "2005",
+      "month": "09",
+      "date": "18"
+    },
+    "title": "Hank's on Board",
+    "summary": "Hank fears he is being shunned when his friends go on a vacation without him. Meanwhile, Bobby uses grocery money entrusted to him by Peggy to buy a metal detector.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzMTQ4NjcyN15BMl5BanBnXkFtZTgwMDY5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 2,
+    "id": "s10e02",
+    "broadcast": {
+      "year": "2005",
+      "month": "09",
+      "date": "05"
+    },
+    "title": "Bystand Me",
+    "summary": "When the Arlen Bystander newspaper gets a new editor, Peggy gets a job writing a household hints column (even though Peggy does not know any household hints). Meanwhile, Hank makes Bobby get a paper route.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE5MjIwMzQwMl5BMl5BanBnXkFtZTgwNjQ5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 3,
+    "id": "s10e03",
+    "broadcast": {
+      "year": "2005",
+      "month": "11",
+      "date": "06"
+    },
+    "title": "Bill's House",
+    "summary": "Bill turns his house into a rehabilitation center for alcoholics, and enlists Hank's assistance when the task gets out of hand.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ3Nzc0MDQ2N15BMl5BanBnXkFtZTgwMDAwMTk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 4,
+    "id": "s10e04",
+    "broadcast": {
+      "year": "2005",
+      "month": "11",
+      "date": "20"
+    },
+    "title": "Harlottown",
+    "summary": "While researching for an article, Peggy discovers that Arlen's founding mothers were prostitutes, which embarrasses Hank and prompts the city manager to open a Museum of Prostitution and have Arlen be the new city for the Adult Video Awards.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5MDA4NjA5Nl5BMl5BanBnXkFtZTgwNzU5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 5,
+    "id": "s10e05",
+    "broadcast": {
+      "year": "2005",
+      "month": "12",
+      "date": "04"
+    },
+    "title": "Portrait of the Artist as a Young Clown",
+    "summary": "Bobby goes to clown college and becomes a classical clown, but no one likes his new act except Bobby himself.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzI3NzU4Nl5BMl5BanBnXkFtZTgwMjcwODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 6,
+    "id": "s10e06",
+    "broadcast": {
+      "year": "2005",
+      "month": "12",
+      "date": "11"
+    },
+    "title": "Orange You Sad I Did Say Banana?",
+    "summary": "Upon being told that he is too Americanized and called a \"banana\" (an Asian person who acts white), Kahn vows to return to his Laotian roots, which doesn't sit well with Minh and Connie, who are used to living the excessive, pop-culture obsessed American life. Meanwhile, Hank, Bill, Dale, and Boomhauer help Kahn build a pool in his backyard.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUwMjEwMjYwMV5BMl5BanBnXkFtZTgwNzg5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 7,
+    "id": "s10e07",
+    "broadcast": {
+      "year": "2006",
+      "month": "01",
+      "date": "29"
+    },
+    "title": "You Gotta Believe (in Moderation)",
+    "summary": "Hank invites a softball team to compete against his own team of misfits, to raise money to save Tom Landry Middle School's baseball team.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUzOTM4Mjc4Ml5BMl5BanBnXkFtZTgwODM5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 8,
+    "id": "s10e08",
+    "broadcast": {
+      "year": "2006",
+      "month": "03",
+      "date": "19"
+    },
+    "title": "Business is Picking Up",
+    "summary": "Hank tries to get Bobby interested in working as a propane salesman during Tom Landry Middle School's Career Day, but when Joseph beats him to the punch, Bobby shadows a young, handsome man (voice of Johnny Knoxville) who makes his living picking up animal (and human) waste.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Johnny Knoxville"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk4MzExNjE3NF5BMl5BanBnXkFtZTgwNzY1Njg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 9,
+    "id": "s10e09",
+    "broadcast": {
+      "year": "2006",
+      "month": "03",
+      "date": "26"
+    },
+    "title": "The Year of Washing Dangerously",
+    "summary": "Kahn buys the local car wash as part of get-rich-quick scheme he saw on TV, and Hank finds himself working for his disrespectful, money-obsessed neighbor when Buck takes a stake in the business as well.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjEwMDAwNzUzNl5BMl5BanBnXkFtZTgwNjY1Njg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 10,
+    "id": "s10e10",
+    "broadcast": {
+      "year": "2006",
+      "month": "04",
+      "date": "02"
+    },
+    "title": "Hank Fixes Everything",
+    "summary": "Buck Strickland hires the Teutul family from the reality show American Chopper (who voice themselves) to perform at Strickland Propane in order to win a price war with Thatherton Fuels, then gets into a price fixing conspiracy with the other propane companies in Arlen which attracts the government's attention—centered on Hank.",
+    "characters": [],
+    "tags": [],
+    "guests": ["American Chopper'"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU4MjE3MDAwMF5BMl5BanBnXkFtZTgwNTE2Njg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 11,
+    "id": "s10e11",
+    "broadcast": {
+      "year": "2006",
+      "month": "04",
+      "date": "09"
+    },
+    "title": "Church Hopping",
+    "summary": "When the Hill family finds out that their pew of many years has been given away to another family at church, they abandon their staid Methodist church and come about to worship at a new megachurch, but, while Bobby and Peggy enjoy it, Hank begins to miss his old church.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjA4MzU0OTc5Ml5BMl5BanBnXkFtZTgwODEwMjg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 12,
+    "id": "s10e12",
+    "broadcast": {
+      "year": "2006",
+      "month": "04",
+      "date": "23"
+    },
+    "title": "24 Hour Propane People",
+    "summary": "When Buck gets banned from his favorite strip club, he focuses on making Strickland Propane a \"fun\" place to work after spending his days at a Cold Stone Creamery-style ice cream parlor where the clerks sing to their customers and give out gimmicky sizes and prizes for their service.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NzE0Mjg2N15BMl5BanBnXkFtZTgwODQ1Njg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 13,
+    "id": "s10e13",
+    "broadcast": {
+      "year": "2006",
+      "month": "04",
+      "date": "30"
+    },
+    "title": "The Texas Panhandler",
+    "summary": "When Hank refuses to buy Bobby designer faded jeans, Bobby gets a job as a sign spinner -- but quits when he realizes that he can get more money by becoming a slacker who begs for money for fun.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkyMTAzMDU5NV5BMl5BanBnXkFtZTgwNjk1Njg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 14,
+    "id": "s10e14",
+    "broadcast": {
+      "year": "2006",
+      "month": "05",
+      "date": "07"
+    },
+    "title": "Hank's Bully",
+    "summary": "Hank gets bullied by a boy named Caleb, whose parents don't seem to mind that their son is pushing around an adult. Meanwhile, Dale and Peggy enter a taxidermy competition.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxMTM1MTcyOV5BMl5BanBnXkFtZTgwOTY1Njg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  },
+  {
+    "episode": 15,
+    "id": "s10e15",
+    "broadcast": {
+      "year": "2006",
+      "month": "05",
+      "date": "14"
+    },
+    "title": "Edu-macating Lucky",
+    "summary": "When Lucky asks Peggy to help him get his GED in the hopes of improving his chances of marrying Luanne, Peggy agrees to help him study for the test whilst being torn between her wish to help him and her wish to keep him away from her niece. Peggy teaches him false information and he fails his GED, but the biggest shock comes after the results when Luanne announces she's pregnant with Lucky's child.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU5NzE5MzA5NV5BMl5BanBnXkFtZTgwMjc3NTg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/9/95/KOTH_S10.jpg"
+  }
+]

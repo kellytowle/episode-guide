@@ -1,0 +1,375 @@
+[
+  {
+    "episode": 1,
+    "id": "s07e01",
+    "broadcast": {
+      "year": "2002",
+      "month": "11",
+      "date": "03"
+    },
+    "title": "Get Your Freak Off",
+    "summary": "Hank takes Bobby and his friends to a music concert, but is dismayed to see Bobby and a friend dancing inappropriately to boy band music, so he tries to make Bobby's adolescence more wholesome. Meanwhile, Peggy, Nancy, and Minh try to decide who is the best-looking out of Hank, Dale, Boomhauer, Kahn and Bill.",
+    "characters": [],
+    "tags": [],
+    "guests": [
+      "Eliza Dushku",
+      "Milla Jovovich",
+      "Debra Messing",
+      "Elizabeth Perkins"
+    ],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0OTAyMTUwNl5BMl5BanBnXkFtZTgwNjYxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 2,
+    "id": "s07e02",
+    "broadcast": {
+      "year": "2002",
+      "month": "11",
+      "date": "10"
+    },
+    "title": "The Fat and the Furious",
+    "summary": "Bill becomes a competitive eater after downing Hank's entire platter of hot dogs during a barbecue, but his dreams are soon crushed when Dale (who thinks competitive eating is degrading) beats him. ",
+    "characters": [],
+    "tags": [],
+    "guests": ["Pamela Anderson", "Jeff Garlin", "Kid Rock"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzUyMTE5Ml5BMl5BanBnXkFtZTgwOTAwODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 3,
+    "id": "s07e03",
+    "broadcast": {
+      "year": "2002",
+      "month": "11",
+      "date": "17"
+    },
+    "title": "Bad Girls, Bad Girls, Watcha Gonna Do",
+    "summary": "Connie's criminal cousin, Tid Pau (voiced by Lucy Liu), becomes Bobby's science project partner and makes him an unwitting accomplice in creating a drug lab.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Lucy Liu"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTAyMjQxMDM2MjdeQTJeQWpwZ15BbWU4MDUyMTg4NDIx._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 4,
+    "id": "s07e04",
+    "broadcast": {
+      "year": "2002",
+      "month": "11",
+      "date": "24"
+    },
+    "title": "Goodbye Normal Jeans",
+    "summary": "Peggy becomes jealous of Bobby when he uses his Home Ec. class cooking skills in the Hill kitchen.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BOTU3ODc1NjcyN15BMl5BanBnXkFtZTgwOTY5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 5,
+    "id": "s07e05",
+    "broadcast": {
+      "year": "2002",
+      "month": "12",
+      "date": "01"
+    },
+    "title": "Dances with Dogs",
+    "summary": "Bobby and Hank use Ladybird to compete in a dog dancing contest. Meanwhile, Bill is tricked into buying an ill-tempered Rottweiler from an animal shelter.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Scott Hamilton"],
+    "image": "https://m.media-amazon.com/images/M/MV5BNjczMDg4MDA1N15BMl5BanBnXkFtZTgwNzcxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 6,
+    "id": "s07e06",
+    "broadcast": {
+      "year": "2002",
+      "month": "12",
+      "date": "08"
+    },
+    "title": "The Son Also Roses",
+    "summary": "Bobby becomes a rose grower when he tires of doing the Landry football team's laundry, and recruits the help of two cannabis cultivators to help him win a contest.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Michael Clarke Duncan"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg1NjcxNTUzMV5BMl5BanBnXkFtZTgwMzUwODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 7,
+    "id": "s07e07",
+    "broadcast": {
+      "year": "2002",
+      "month": "12",
+      "date": "15"
+    },
+    "title": "The Texas Skillsaw Massacre",
+    "summary": "The Hills are forced to live with the Gribbles after Dale digs a tunnel underneath the Hills' kitchen, and the inspector declares the Hill house uninhabitable until the necessary repairs are done. Things get worse when Hank is sentenced to take anger management classes after accidentally cutting one of Dale's fingers off with a circular saw.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI4OTEwMTk2MV5BMl5BanBnXkFtZTgwNzMwODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 8,
+    "id": "s07e08",
+    "broadcast": {
+      "year": "2003",
+      "month": "01",
+      "date": "05"
+    },
+    "title": "Full Metal Dust Jacket",
+    "summary": "Peggy takes over the lease of a bookstore, but when the bookstore's business plummets, she allows Dale and his gun group to sell firearms at the store.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Peri Gilpin"],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTM5Nzc0NzM1M15BMl5BanBnXkFtZTgwMDQxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 9,
+    "id": "s07e09",
+    "broadcast": {
+      "year": "2003",
+      "month": "01",
+      "date": "12"
+    },
+    "title": "Pigmalion",
+    "summary": "Luanne becomes involved with the psychotic owner (voiced by Michael Keaton) of a pork processing plant who wants Luanne to be just like the woman on the company logo.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Michael Keaton"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTE0MDYxODMyMTFeQTJeQWpwZ15BbWU4MDA4Mjg4NDIx._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 10,
+    "id": "s07e10",
+    "broadcast": {
+      "year": "2003",
+      "month": "01",
+      "date": "12"
+    },
+    "title": "Megalo Dale",
+    "summary": "Dale is hired to exterminate at the Mega Lo Mart, but it turns out the \"pest\" is Chuck Mangione, the Mega Lo Mart spokesman.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Topher Grace", "Danny Masterson"],
+    "image": "https://m.media-amazon.com/images/M/MV5BNTA3NDQ1MDA4MF5BMl5BanBnXkFtZTgwMjAyODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 11,
+    "id": "s07e11",
+    "broadcast": {
+      "year": "2003",
+      "month": "02",
+      "date": "02"
+    },
+    "title": "Boxing Luanne",
+    "summary": "To prove to men that she is more than just a pretty face and a sexy body, Luanne becomes a boxer. By the time she finds out that Buck has paid all her opponents to take a dive, though, she is scheduled for a real bout against George Foreman's daughter, Freeda.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BNzUyNDI3MzcxOV5BMl5BanBnXkFtZTgwNjExODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 12,
+    "id": "s07e12",
+    "broadcast": {
+      "year": "2003",
+      "month": "02",
+      "date": "09"
+    },
+    "title": "Vision Quest",
+    "summary": "John Redcorn is worried about how Dale is raising Joseph, so he gets Hank to take Joseph on a \"vision quest\", but Dale is the one who gets a vision and mistakenly believes that he is a Native American.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE2MzUzNDk2NF5BMl5BanBnXkFtZTgwODE5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 13,
+    "id": "s07e13",
+    "broadcast": {
+      "year": "2003",
+      "month": "02",
+      "date": "16"
+    },
+    "title": "Queasy Rider",
+    "summary": "Hank and Peggy try to fix their strained marriage by buying a motorcycle and immersing themselves in the biker lifestyle, only to find that the biker lifestyle is very misogynistic.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg5NDM4NTA0M15BMl5BanBnXkFtZTgwMDcyODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 14,
+    "id": "s07e14",
+    "broadcast": {
+      "year": "2003",
+      "month": "03",
+      "date": "02"
+    },
+    "title": "Board Games",
+    "summary": "Peggy, Nancy, and Minh run for school board against each other after Tom Landry Middle School cuts all after-school programs out of the budget -- and all three women will stop at nothing to get the empty seat.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTg4NzI2NDU2NV5BMl5BanBnXkFtZTgwOTk5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 15,
+    "id": "s07e15",
+    "broadcast": {
+      "year": "2003",
+      "month": "03",
+      "date": "09"
+    },
+    "title": "An Officer and a Gentle Boy",
+    "summary": "Fed up with Bobby's laziness, Hank sends him off to Cotton's old military school Fort Berk Academy, but Cotton is dismayed that Fort Berk has softened up and sets out to make it as brutal as possible.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ1NDE5MDEzOV5BMl5BanBnXkFtZTgwOTIxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 16,
+    "id": "s07e16",
+    "broadcast": {
+      "year": "2003",
+      "month": "03",
+      "date": "16"
+    },
+    "title": "The Miseducation of Bobby Hill",
+    "summary": "Bobby becomes a salesman at Strickland Propane (although Hank doubts his ability, citing his inexperience) and uses underhanded tactics learned from Joe Jack to sell more grills. Meanwhile, Dale builds a Lawnchair Larry flight-inspired flying lawn chair and tests it out on Bill, who ends up battered, bruised, and lost in Mexico.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc5NDk5ODA3NV5BMl5BanBnXkFtZTgwNDI5MDk0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 17,
+    "id": "s07e17",
+    "broadcast": {
+      "year": "2003",
+      "month": "03",
+      "date": "30"
+    },
+    "title": "The Good Buck",
+    "summary": "Buck becomes a born-again Christian (courtesy of Luanne) after his wife divorces him, but Hank is worried that Buck only wants Luanne for sex. Meanwhile, Bobby hides out from his track coach and makes friends with two old ladies at Hotel Arlen's restaurant during tea time.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjQxNzIzMzIyMF5BMl5BanBnXkFtZTgwMjAxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 18,
+    "id": "s07e18",
+    "broadcast": {
+      "year": "2003",
+      "month": "04",
+      "date": "13"
+    },
+    "title": "I Never Promised You an Organic Garden",
+    "summary": "Peggy takes over the organic garden at the school, but she is caught using pesticides on the garden when every organic treatment fails to save the garden from bug infestation.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTEwODkwNDMwNjJeQTJeQWpwZ15BbWU4MDg1MTg4NDIx._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 19,
+    "id": "s07e19",
+    "broadcast": {
+      "year": "2003",
+      "month": "04",
+      "date": "27"
+    },
+    "title": "Be True to Your Fool",
+    "summary": "When Bill accidentally infects Hank, Dale, and Boomhauer with lice, they are forced to shave off their hair, only for Hank to discover the word \"Bill\" tattooed on the back of his head. Meanwhile, Bill befriends prisoners at the county jail after being arrested for being drunk in public.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MDE2NjQ4M15BMl5BanBnXkFtZTgwMzExODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 20,
+    "id": "s07e20",
+    "broadcast": {
+      "year": "2003",
+      "month": "05",
+      "date": "04"
+    },
+    "title": "Racist Dawg",
+    "summary": "Hank hires an African-American repairman (guest-voiced by Bernie Mac), whom Ladybird attacks, prompting the town to think that Hank and his dog are racists.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Bernie Mac"],
+    "image": "https://m.media-amazon.com/images/M/MV5BODk5MTc2NDEzMV5BMl5BanBnXkFtZTgwMTgyODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 21,
+    "id": "s07e21",
+    "broadcast": {
+      "year": "2003",
+      "month": "05",
+      "date": "11"
+    },
+    "title": "Night and Deity",
+    "summary": "After Bill attracts pigeons to the alley, Dale must work with an attractive female exterminator (voice of Janeane Garofalo), who makes Nancy jealous.",
+    "characters": [],
+    "tags": [],
+    "guests": ["Janeane Garofalo"],
+    "image": "https://m.media-amazon.com/images/M/MV5BODczNjk0ODgwN15BMl5BanBnXkFtZTgwMDYyODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 22,
+    "id": "s07e22",
+    "broadcast": {
+      "year": "2003",
+      "month": "05",
+      "date": "18"
+    },
+    "title": "Maid in Arlen",
+    "summary": "Kahn's mother Laoma arrives and soon becomes the Hills' housekeeper, much to Kahn's annoyance. Bill and Laoma later enter into a romantic relationship that Kahn works overtime to sabotage.",
+    "characters": [],
+    "tags": [],
+    "guests": [],
+    "image": "https://m.media-amazon.com/images/M/MV5BMjE1MTk3ODczM15BMl5BanBnXkFtZTgwMjkxODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  },
+  {
+    "episode": 23,
+    "id": "s07e23",
+    "broadcast": {
+      "year": "2003",
+      "month": "05",
+      "date": "18"
+    },
+    "title": "The Witches of East Arlen",
+    "summary": "After losing out on playing Curly in the school production of Oklahoma!, Bobby gets involved with a group of post-adolescent geeks who are into tarot cards and witchcraft. ",
+    "characters": [],
+    "tags": [],
+    "guests": ["David Cross"],
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQzOTgyMzAxNF5BMl5BanBnXkFtZTgwMTAwODg0MjE@._V1_.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/KOTH_S7.jpg"
+  }
+]
