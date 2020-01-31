@@ -1,0 +1,2716 @@
+[
+  [
+    {
+      "episode": 1,
+      "season": 1,
+      "id": "s01e01",
+      "broadcast": {
+        "year": "2011",
+        "month": "01",
+        "date": "09"
+      },
+      "title": "Human Flesh",
+      "summary": "When Louise spreads a rumor at her school that human flesh is used for Bob's hamburgers, health inspector Hugo visits the restaurant and inspects it.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MDUyOTI5Ml5BMl5BanBnXkFtZTcwMzE5MTcyNA@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 2,
+      "season": 1,
+      "id": "s01e02",
+      "broadcast": {
+        "year": "2011",
+        "month": "01",
+        "date": "16"
+      },
+      "title": "Crawl Space",
+      "summary": "Bob pretends to be trapped in a crawl space in the wall while Linda's parents visit, but rescue efforts cease when he reveals the ruse after getting trapped for real.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Renée Taylor"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0MjQzNTg2Ml5BMl5BanBnXkFtZTcwOTA5MTcyNA@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 3,
+      "season": 1,
+      "id": "s01e03",
+      "broadcast": {
+        "year": "2011",
+        "month": "01",
+        "date": "23"
+      },
+      "title": "Sacred Cow",
+      "summary": "Bob tries to get a documentary filmmaker to remove the cow he stations outside the restaurant to protest meat eating, but takes to the cow when he takes matters into his own hands.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Todd Barry", "Brendon Small", "Paul F. Tompkins"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc4NzkyNTE4NV5BMl5BanBnXkFtZTgwOTI5OTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 4,
+      "season": 1,
+      "id": "s01e04",
+      "broadcast": {
+        "year": "2011",
+        "month": "02",
+        "date": "13"
+      },
+      "title": "Sexy Dance Fighting",
+      "summary": "Bob has to cover for Tina when she takes a capoeira class.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Jon Glaser"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQxNjMxOTA0OF5BMl5BanBnXkFtZTgwNjI5OTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 5,
+      "season": 1,
+      "id": "s01e05",
+      "broadcast": {
+        "year": "2011",
+        "month": "02",
+        "date": "20"
+      },
+      "title": "Hamburger Dinner Theater",
+      "summary": "Linda and the kids stage a murder mystery that gets a little real when the restaurant is robbed.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Jerry Minor", "Toby Huss"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzM0MzY3OV5BMl5BanBnXkFtZTgwODMyNzg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 6,
+      "season": 1,
+      "id": "s01e06",
+      "broadcast": {
+        "year": "2011",
+        "month": "03",
+        "date": "06"
+      },
+      "title": "Sheesh! Cab, Bob?",
+      "summary": "Bob becomes a cab driver to make the extra cash to pay for Tina's 13th birthday.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Jack McBrayer", "Oscar Nuñez", "Steve Agee"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMzMzI2NTE1OV5BMl5BanBnXkFtZTgwNDUzOTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 7,
+      "season": 1,
+      "id": "s01e07",
+      "broadcast": {
+        "year": "2011",
+        "month": "03",
+        "date": "13"
+      },
+      "title": "Bed & Breakfast",
+      "summary": "Linda's guests don't want to participate in her bed and breakfast, so Linda invites Teddy to stay as her \"perfect guest\". But Louise swears revenge on him when he displaces her from her room.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3Mjk1ODA1OF5BMl5BanBnXkFtZTgwMTMzOTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 8,
+      "season": 1,
+      "id": "s01e08",
+      "broadcast": {
+        "year": "2011",
+        "month": "03",
+        "date": "20"
+      },
+      "title": "Art Crawl",
+      "summary": "It's Bob vs. the city art council when Linda's sister displays her work at Bob's Burgers.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Megan Mullally"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwNTQ2ODk4Nl5BMl5BanBnXkFtZTgwODc0NTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 9,
+      "season": 1,
+      "id": "s01e09",
+      "broadcast": {
+        "year": "2011",
+        "month": "03",
+        "date": "27"
+      },
+      "title": "Spaghetti Western and Meatballs",
+      "summary": "Bob and Gene bond over classic Western movies, making Louise feel left out.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Brian Posehn"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg4Nzk1NjE3NV5BMl5BanBnXkFtZTgwODU0NTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 10,
+      "season": 1,
+      "id": "s01e10",
+      "broadcast": {
+        "year": "2011",
+        "month": "04",
+        "date": "10"
+      },
+      "title": "Burger War",
+      "summary": "Bob has to drum up business before his rival, Jimmy Pesto, can take over the restaurant's lease.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjhkY2I3M2ItYWVhZS00MTgyLWE5N2QtOGMwOTdiZDNmNjVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 11,
+      "season": 1,
+      "id": "s01e11",
+      "broadcast": {
+        "year": "2011",
+        "month": "05",
+        "date": "08"
+      },
+      "title": "Weekend at Mort's",
+      "summary": "Mold drives the Belchers to Mort's mortuary for the weekend. Louise tries to frighten Gene and babysitter Tina while Bob and Linda go out on a double date with Mort and an online mortician acquaintance.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Amy Sedaris"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzMDU5OTYyMF5BMl5BanBnXkFtZTgwMTUzNzg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 12,
+      "season": 1,
+      "id": "s01e12",
+      "broadcast": {
+        "year": "2011",
+        "month": "05",
+        "date": "15"
+      },
+      "title": "Lobsterfest",
+      "summary": "Bob feeds the town during a storm that shuts down Lobsterfest. But when the storm passes and festivities resume, Bob, resentful of the annual event, protests it and ends up tainting the town's butter supply and incurring the town's wrath.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Jerry Minor"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIzOTcxMDg5MF5BMl5BanBnXkFtZTgwNTc0Njg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 13,
+      "season": 1,
+      "id": "s01e13",
+      "broadcast": {
+        "year": "2011",
+        "month": "05",
+        "date": "22"
+      },
+      "title": "Torpedo",
+      "summary": "Bob is thrilled when his baseball hero Torpedo Jones takes a liking to his burgers, but has misgivings when he realizes that Torpedo is just using the burger grease to cheat, especially when it causes Gene to cheat in a mascot race.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Tim Heidecker", "Eric Wareheim", "Robert Ben Garant"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA5ODQ1MzIxMV5BMl5BanBnXkFtZTgwODYyMjk0MjE@._V1_.jpg",
+      "poster": ""
+    }
+  ],
+  [
+    {
+      "episode": 1,
+      "season": 2,
+      "id": "s02e01",
+      "broadcast": {
+        "year": "2012",
+        "month": "03",
+        "date": "11"
+      },
+      "title": "The Belchies",
+      "summary": "The kids explore an abandoned taffy factory on the day of its demolition, while Bob and Linda try to find them before time runs out.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Cyndi Lauper"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk4NzY5MTUzNF5BMl5BanBnXkFtZTgwMjUwNDg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 2,
+      "season": 2,
+      "id": "s02e02",
+      "broadcast": {
+        "year": "2012",
+        "month": "03",
+        "date": "18"
+      },
+      "title": "Bob Day Afternoon",
+      "summary": "Bob and Linda decide to take an opportunity to promote their restaurant when a bank robbery/hostage situation explodes across the street, but the robber, a low-level criminal named Mickey (voiced by Bill Hader) ends up taking Bob as a hostage.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Craig Anton", "Todd Barry", "Gary Cole", "Bill Hader"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgwMjYxMzEwOF5BMl5BanBnXkFtZTgwMDc5MTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 3,
+      "season": 2,
+      "id": "s02e03",
+      "broadcast": {
+        "year": "2012",
+        "month": "03",
+        "date": "25"
+      },
+      "title": "Synchronized Swimming",
+      "summary": "The kids find a way to escape gym class by doing a bogus independent study of synchronized swimming, but things get complicated when Linda becomes their synchronized swimming instructor and Mr. Frond wants the kids to show off their routine in front of the school board. Meanwhile, Bob welcomes a new ice cream machine into the restaurant.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Declyn Thornton"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQxMjI5ODk1Ml5BMl5BanBnXkFtZTgwNTY2Nzg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 4,
+      "season": 2,
+      "id": "s02e04",
+      "broadcast": {
+        "year": "2012",
+        "month": "04",
+        "date": "01"
+      },
+      "title": "Burgerboss",
+      "summary": "Bob becomes obsessed with an old-school burger-flipping video game after Jimmy Pesto gets the high score and writes \"BOB SUX\" on the leaderboard. ",
+      "characters": [],
+      "tags": [],
+      "guests": ["Aziz Ansari", "Robert Smigel"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNDUwMDAxMzg5MV5BMl5BanBnXkFtZTgwNTY4MTk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 5,
+      "season": 2,
+      "id": "s02e05",
+      "broadcast": {
+        "year": "2012",
+        "month": "04",
+        "date": "15"
+      },
+      "title": "Food Truckin'",
+      "summary": "The Belchers beg Bob to buy a food truck to compete against the ones that are stealing his customers. When the \"Lolla-Pa-Foods-A-Festival\" comes up, the Belchers bring the truck and the kids decide to cause mischief. Unfortunately, this causes a riot among the other food truckers.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Dave Allen",
+        "Megan Mullally",
+        "Dana Powell",
+        "Paul Scheer",
+        "Paul F. Tompkins"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc0NjYyNzc3NV5BMl5BanBnXkFtZTgwODMzMjg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 6,
+      "season": 2,
+      "id": "s02e06",
+      "broadcast": {
+        "year": "2012",
+        "month": "04",
+        "date": "29"
+      },
+      "title": "Dr. Yap",
+      "summary": "While Bob is medicated, he mistakes Linda's sister, Gayle, for his wife and kisses her. After she falls for him, Bob seeks help from Dr. Yap.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Rob Huebel", "Ken Jeong", "Megan Mullally"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjE5NDc2NzE3NF5BMl5BanBnXkFtZTgwODY1ODg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 7,
+      "season": 2,
+      "id": "s02e07",
+      "broadcast": {
+        "year": "2012",
+        "month": "05",
+        "date": "06"
+      },
+      "title": "Moody Foodie",
+      "summary": "The restaurant receives a negative review from a vicious food critic (voiced by Patton Oswalt) and it begins to affect Bob's cooking.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Michael Madsen",
+        "Tim Meadows",
+        "Oscar Nuñez",
+        "Patton Oswalt",
+        "Eddie Pepitone"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQzOTk4MTA4MF5BMl5BanBnXkFtZTgwNzY5MTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 8,
+      "season": 2,
+      "id": "s02e08",
+      "broadcast": {
+        "year": "2012",
+        "month": "05",
+        "date": "13"
+      },
+      "title": "Bad Tina",
+      "summary": "Tina starts hanging out with bad girl, Tammy (voiced by Jenny Slate), in an effort to get closer to Jimmy Junior.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Jenny Slate", "Bobby Tisdale"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA3ODMyODIzNDheQTJeQWpwZ15BbWU4MDk0NTI5NDIx._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 9,
+      "season": 2,
+      "id": "s02e09",
+      "broadcast": {
+        "year": "2012",
+        "month": "05",
+        "date": "20"
+      },
+      "title": "Beefsquatch",
+      "summary": "Bob appears in a cooking segment on a local news morning program, but Gene steals the show when he crashes the set with a Sasquatch mask.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Samantha Bee", "Nathan Fielder", "Thomas Lennon"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxMTg1NjU4Nl5BMl5BanBnXkFtZTgwNTg3Njg0MjE@._V1_.jpg",
+      "poster": ""
+    }
+  ],
+  [
+    {
+      "episode": 1,
+      "season": 3,
+      "id": "s03e01",
+      "broadcast": {
+        "year": "2012",
+        "month": "09",
+        "date": "30"
+      },
+      "title": "Ear-sy Rider",
+      "summary": "Louise gets her bunny ears stolen by a high school bully, and Bob meets the One-Eyed Snakes, a motorcycle gang, when they visit to honor their fallen leader.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Kurt Braunohler",
+        "Robert Ben Garant",
+        "Kyle Kinane",
+        "Wendi McLendon-Covey",
+        "Lindsey Stoddart"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkxOTQ5ODI3MV5BMl5BanBnXkFtZTcwNTU2NjM0OA@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 2,
+      "season": 3,
+      "id": "s03e02",
+      "broadcast": {
+        "year": "2012",
+        "month": "10",
+        "date": "07"
+      },
+      "title": "Full Bars",
+      "summary": "The kids skip their normal trick-or-treat route for Halloween and decide to go to a posh neighborhood, Kingshead Island, as they distribute full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual \"Black and Orange\" party.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Joe Lo Truglio",
+        "Tim Meadows",
+        "Eddie Pepitone",
+        "Paul Rust",
+        "Samantha Shelton"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAxODM5NjI3MF5BMl5BanBnXkFtZTgwNDgyNjg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 3,
+      "season": 3,
+      "id": "s03e03",
+      "broadcast": {
+        "year": "2012",
+        "month": "11",
+        "date": "04"
+      },
+      "title": "Bob Fires the Kids",
+      "summary": "When Bob feels that he is depriving the kids of any summer vacation, he decides to relieve them of duty from working the restaurant. After they get bored of their summer break, they are hired by a hippie couple to be \"weed pickers\". Meanwhile, Bob hires Mickey the bank robber to work at his restaurant.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Doug Benson",
+        "Bill Hader",
+        "Megan Mullally",
+        "Nick Offerman"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc2MzU5MTczN15BMl5BanBnXkFtZTgwNTUyMjg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 4,
+      "season": 3,
+      "id": "s03e04",
+      "broadcast": {
+        "year": "2012",
+        "month": "11",
+        "date": "11"
+      },
+      "title": "Mutiny on the Windbreaker",
+      "summary": "The Belchers are shanghaied on a cruise ship when the captain requests Bob to be his personal chef. While stuck on the cruise, Gene gets a crush on a talentless ventriloquist's Mae West-inspired manatee puppet, Tina pesters a masseur to give her a massage, and Louise gets cartoonishly-long finger- and toenails at the on-board salon.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Jeffrey Tambor", "Paul F. Tompkins"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTg1Mjg0OF5BMl5BanBnXkFtZTgwNTYyMjg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 5,
+      "season": 3,
+      "id": "s03e05",
+      "broadcast": {
+        "year": "2012",
+        "month": "11",
+        "date": "18"
+      },
+      "title": "An Indecent Thanksgiving Proposal",
+      "summary": "Bob's Thanksgiving traditions are interrupted when Mr. Fischoeder recruits the Belchers to pose as his family, hoping to impress an old flame.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Lindsey Stoddart"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5Mzg1MzQ1OF5BMl5BanBnXkFtZTgwMDkyMjg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 6,
+      "season": 3,
+      "id": "s03e06",
+      "broadcast": {
+        "year": "2012",
+        "month": "11",
+        "date": "25"
+      },
+      "title": "The Deepening",
+      "summary": "In this parody of Jaws, Mr. Fischoeder buys a mechanical shark that was used in a movie shot at Wonder Wharf. Teddy, who worked on the movie when he was young, has to battle the shark when it threatens the town's safety.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzNTczNTAxMV5BMl5BanBnXkFtZTgwNTAwMjg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 7,
+      "season": 3,
+      "id": "s03e07",
+      "broadcast": {
+        "year": "2012",
+        "month": "12",
+        "date": "02"
+      },
+      "title": "Tinarannosaurus Wrecks",
+      "summary": "When Tina accidentally totals the family car, she believes that she is jinxed when she and Bob decide to lie to the insurance agent and end up in insurance fraud.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Bob Odenkirk"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYwNTM3OTk5M15BMl5BanBnXkFtZTgwNDExMjk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 8,
+      "season": 3,
+      "id": "s03e08",
+      "broadcast": {
+        "year": "2012",
+        "month": "12",
+        "date": "09"
+      },
+      "title": "The Unbearable Like-Likeness of Gene",
+      "summary": "Gene tries to break up with his new girlfriend, Courtney (voiced by David Wain), after the family finds her annoying. When he tries to, however, he finds out that her dad writes jingles and he could possibly launch his own career.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Kurt Braunohler",
+        "John Michael Higgins",
+        "Kulap Vilaysack",
+        "David Wain"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjQyNjEyNzQwMV5BMl5BanBnXkFtZTgwMTkwMzg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 9,
+      "season": 3,
+      "id": "s03e09",
+      "broadcast": {
+        "year": "2012",
+        "month": "12",
+        "date": "16"
+      },
+      "title": "God Rest Ye Merry Gentle-Mannequins",
+      "summary": "Bob inherits a storage unit from a dead relative, and finds a mentally-disturbed man inside who claims that he was once a clothing store mannequin whose wife went missing when he turned human.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Zach Galifianakis", "Tim Meadows", "Fred Stoller"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjAzMjc5NTQxM15BMl5BanBnXkFtZTgwNzIyMzg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 10,
+      "season": 3,
+      "id": "s03e10",
+      "broadcast": {
+        "year": "2013",
+        "month": "01",
+        "date": "06"
+      },
+      "title": "Mother Daughter Laser Razor",
+      "summary": "Linda fears that her bond with Louise isn't as strong as hers with Tina, so she forces Louise to attend a mother-daughter seminar. Meanwhile, Tina and Bob get their legs waxed.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Kurt Braunohler",
+        "Brooke Dillman",
+        "Tim Heidecker",
+        "Lindsey Stoddart"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2NTM2OTE4Nl5BMl5BanBnXkFtZTgwNDMwNDk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 11,
+      "season": 3,
+      "id": "s03e11",
+      "broadcast": {
+        "year": "2013",
+        "month": "01",
+        "date": "13"
+      },
+      "title": "Nude Beach",
+      "summary": "Darryl and the Belcher kids set up a business for kids to pay to see a good view of the nearby nude beach. Meanwhile, a new health inspector replaces Hugo and Bob disagrees with him.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Fred Armisen", "Andre Royo"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEyMzQ0MDU1OV5BMl5BanBnXkFtZTgwODg1MTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 12,
+      "season": 3,
+      "id": "s03e12",
+      "broadcast": {
+        "year": "2013",
+        "month": "01",
+        "date": "27"
+      },
+      "title": "Broadcast Wagstaff School News",
+      "summary": "Tina vows to find the \"mad pooper\" running rampant at the children's school.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Will Forte", "Jenny Slate"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA1NjkxMjc4NjheQTJeQWpwZ15BbWU4MDUxNzI5NDIx._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 13,
+      "season": 3,
+      "id": "s03e13",
+      "broadcast": {
+        "year": "2013",
+        "month": "02",
+        "date": "10"
+      },
+      "title": "My Fuzzy Valentine",
+      "summary": "Bob and the kids try to find the perfect Valentine's Day gift for Linda. Meanwhile, Linda opts to hold an impromptu speed-dating event at the restaurant.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Gary Cole", "Tim Meadows", "Lindsey Stoddart"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgwMTQ2MjkwOF5BMl5BanBnXkFtZTgwNDYyOTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 14,
+      "season": 3,
+      "id": "s03e14",
+      "broadcast": {
+        "year": "2013",
+        "month": "02",
+        "date": "17"
+      },
+      "title": "Lindapendent Woman",
+      "summary": "Bob and Linda try to think of ways to cut expenses. Linda decides to go shopping at Fresh Feed, a grocery store, where after talking to the manager about the store gets a part-time job.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Todd Barry", "Matt Besser", "Tim Meadows", "Ben Schwartz"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEwMzIxMDE4Ml5BMl5BanBnXkFtZTgwODY1Mjg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 15,
+      "season": 3,
+      "id": "s03e15",
+      "broadcast": {
+        "year": "2013",
+        "month": "03",
+        "date": "03"
+      },
+      "title": "O.T.: The Outside Toilet",
+      "summary": "In a parody of E.T. the Extra-Terrestrial, Gene finds a talking toilet (voiced by Jon Hamm), and he is determined to keep it out of the wrong hands.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Neil Flynn"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMxNTgyMTkzN15BMl5BanBnXkFtZTgwMjI5MTk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 16,
+      "season": 3,
+      "id": "s03e16",
+      "broadcast": {
+        "year": "2013",
+        "month": "03",
+        "date": "10"
+      },
+      "title": "Topsy",
+      "summary": "Louise tries to take down her Thomas Edison-obsessed science teacher by recreating the Topsy incident using Gene and Tina.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Billy Eichner", "Megan Mullally", "Mark Proksch"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNTgwOTQyNTY2MV5BMl5BanBnXkFtZTgwMTA0MTk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 17,
+      "season": 3,
+      "id": "s03e17",
+      "broadcast": {
+        "year": "2013",
+        "month": "03",
+        "date": "17"
+      },
+      "title": "Two for Tina",
+      "summary": "Tina starts dating a ballet dancer, making Jimmy, Jr. jealous.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Gabe Liedman", "Ben Schwartz"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY1MTY0MDUzMF5BMl5BanBnXkFtZTgwMzA3Mjk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 18,
+      "season": 3,
+      "id": "s03e18",
+      "broadcast": {
+        "year": "2013",
+        "month": "03",
+        "date": "24"
+      },
+      "title": "It Snakes a Village",
+      "summary": "While the restaurant and the house are being fumigated, the Belchers decide to visit Linda's parents retirement community in Florida. Much to the kids' dismay, the retirement community pool is closed for cleaning and they have to find new ways to entertain themselves. Linda discovers that the community is for retirees who participate in swinging. Meanwhile, the kids get hired by a woman in the same village to hunt and take a picture of a python residing in the village forest, which she believes is responsible for the loss of her dog Bitsy.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Linda Lavin", "Renée Taylor"],
+      "image": "https://m.media-amazon.com/images/M/MV5BOTQ5NTA1NzY1MV5BMl5BanBnXkFtZTgwMTA3Mjk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 19,
+      "season": 3,
+      "id": "s03e19",
+      "broadcast": {
+        "year": "2013",
+        "month": "04",
+        "date": "14"
+      },
+      "title": "Family Fracas",
+      "summary": "The Belcher family competes against the Pesto family in a game show to win a new minivan after the family car breaks down.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Samantha Bee", "Thomas Lennon", "Rob Huebel"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY2NjIzMzQ1NV5BMl5BanBnXkFtZTgwODYzMzg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 20,
+      "season": 3,
+      "id": "s03e20",
+      "broadcast": {
+        "year": "2013",
+        "month": "04",
+        "date": "21"
+      },
+      "title": "The Kids Run the Restaurant",
+      "summary": "After Bob goes to the hospital, the kids take over the restaurant and transform it into a casino.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Johnny Pemberton", "Samantha Shelton"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwMzIwMzYwNl5BMl5BanBnXkFtZTgwMzg2MTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 21,
+      "season": 3,
+      "id": "s03e21",
+      "broadcast": {
+        "year": "2013",
+        "month": "04",
+        "date": "28"
+      },
+      "title": "Boyz 4 Now",
+      "summary": "Tina and Louise attend a Boyz 4 Now concert, leading Louise to discover her crush on the lead singer.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Brooke DIllman",
+        "Max Greenfield",
+        "Jack McBrayer",
+        "Megan Mullally",
+        "Tig Notaro"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ2OTE5NTAwMl5BMl5BanBnXkFtZTgwNTc2MTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 22,
+      "season": 3,
+      "id": "s03e22",
+      "broadcast": {
+        "year": "2013",
+        "month": "05",
+        "date": "05"
+      },
+      "title": "Carpe Museum",
+      "summary": "The kids go on a school trip to the museum and Linda signs Bob up to be a chaperone.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Brooke Dillman", "Jim Gaffigan", "Brian Huskey"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNDk4MDAzMjc3Ml5BMl5BanBnXkFtZTgwMDg2MTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 23,
+      "season": 3,
+      "id": "s03e23",
+      "broadcast": {
+        "year": "2013",
+        "month": "05",
+        "date": "12"
+      },
+      "title": "The Unnatural",
+      "summary": "Gene joins a baseball camp that turns out to be a scam. Meanwhile, Tina gets hooked on espresso.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Kurt Braunohler",
+        "Rob Huebel",
+        "Brian Huskey",
+        "Jason Mantzoukas"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUzODE0MjA2OV5BMl5BanBnXkFtZTgwMjA3MTg0MjE@._V1_.jpg",
+      "poster": ""
+    }
+  ],
+  [
+    {
+      "episode": 1,
+      "season": 4,
+      "id": "s04e01",
+      "broadcast": {
+        "year": "2013",
+        "month": "09",
+        "date": "29"
+      },
+      "title": "A River Runs Through Bob",
+      "summary": "The family faces the wilderness on a camping adventure, but Bob and Linda accidentally get sent downstream. Meanwhile, Tina learns the truth about her Thundergirls troop.",
+      "characters": [],
+      "tags": [],
+      "guests": ["John Michael Higgins", "Lindsey Stoddart"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxMjM4NzYwN15BMl5BanBnXkFtZTgwODIxMzg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 2,
+      "season": 4,
+      "id": "s04e02",
+      "broadcast": {
+        "year": "2013",
+        "month": "10",
+        "date": "06"
+      },
+      "title": "Fort Night",
+      "summary": "The three kids go out on Halloween, but end up being held captive in their own fort by extra-annoying Millie. Bob and Linda struggle to create a costume that the kids can use for trick-or-treating.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Aziz Ansari", "Molly Shannon |"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc4NjY1MDE1Ml5BMl5BanBnXkFtZTgwOTkxNjg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 3,
+      "season": 4,
+      "id": "s04e03",
+      "broadcast": {
+        "year": "2013",
+        "month": "11",
+        "date": "03"
+      },
+      "title": "Seaplane!",
+      "summary": "A pilot known as \"Upskirt Kurt\" flirts with Linda when she signs up for flying lessons. Bob learns of this man, and tries to stop him.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Will Forte"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQxNjg1OTc2NF5BMl5BanBnXkFtZTgwMjQyNzg0MjE@._V1_.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/18/Bob%27s_Burgers_%28season_4%29.png"
+    },
+    {
+      "episode": 4,
+      "season": 4,
+      "id": "s04e04",
+      "broadcast": {
+        "year": "2013",
+        "month": "11",
+        "date": "10"
+      },
+      "title": "My Big Fat Greek Bob",
+      "summary": "Bob gets involved in college pranks when he gets a temporary job cooking at a fraternity house. The kids attempt to break into the house's \"Room of Secrets\".",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Kurt Braunohler",
+        "Hannibal Buress",
+        "Ken Jeong",
+        "Jonathan Katz",
+        "Samantha Shelton",
+        "Dana Snyder"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ5MDQ3MzM0NF5BMl5BanBnXkFtZTgwODQ5MDk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 5,
+      "season": 4,
+      "id": "s04e05",
+      "broadcast": {
+        "year": "2013",
+        "month": "11",
+        "date": "24"
+      },
+      "title": "Turkey in a Can",
+      "summary": "Bob is shocked when the Thanksgiving turkey ends up in the toilet. Fueled by rage, Bob goes to desperate measures to make sure every next turkey is safe from the bathroom.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Tuc Watkins"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM4NzI5MDc2Nl5BMl5BanBnXkFtZTgwMjk5MDk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 6,
+      "season": 4,
+      "id": "s04e06",
+      "broadcast": {
+        "year": "2013",
+        "month": "12",
+        "date": "01"
+      },
+      "title": "Purple Rain-Union",
+      "summary": "Linda performs at her high school reunion with her old band.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Brooke Dillman", "Wendy Molyneux", "Lindsey Stoddart"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3Mzc0MDY1Ml5BMl5BanBnXkFtZTgwNDUxMDc2MDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 7,
+      "season": 4,
+      "id": "s04e07",
+      "broadcast": {
+        "year": "2013",
+        "month": "12",
+        "date": "08"
+      },
+      "title": "Bob and Deliver",
+      "summary": "Bob is substitute teacher for the home economics class. Teddy learns to dance with the help of Linda.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM0MTI5ODY2MF5BMl5BanBnXkFtZTgwOTgxMDc2MDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 8,
+      "season": 4,
+      "id": "s04e08",
+      "broadcast": {
+        "year": "2013",
+        "month": "12",
+        "date": "15"
+      },
+      "title": "Christmas in the Car",
+      "summary": "The Belchers go looking for a last-minute Christmas tree and find themselves being pursued by a giant candy cane-shaped truck.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Bobcat Goldthwait"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI4MjIxMDU2NF5BMl5BanBnXkFtZTgwNTY4ODg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 9,
+      "season": 4,
+      "id": "s04e09",
+      "broadcast": {
+        "year": "2014",
+        "month": "01",
+        "date": "05"
+      },
+      "title": "Slumber Party",
+      "summary": "Linda invites classmates of a reluctant Louise to a surprise slumber party at the Belcher home. Sick of all the annoyance of her guests, Louise devises schemes to send each of them home.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Rachel Dratch", "Katie Crown", "Kathryn Hahn"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA2NTcxNTU1N15BMl5BanBnXkFtZTgwNjY2ODg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 10,
+      "season": 4,
+      "id": "s04e10",
+      "broadcast": {
+        "year": "2014",
+        "month": "01",
+        "date": "12"
+      },
+      "title": "Presto Tina-o",
+      "summary": "Tina enters a young magician's contest in order to win over Jimmy Jr., but is passed up in favor of Tammy. Bob believes a magician has cursed him after refusing to pay for food.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Andrés du Bouchet", "Jordan Peele"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM2NDkxMTM3NF5BMl5BanBnXkFtZTgwNDcyOTg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 11,
+      "season": 4,
+      "id": "s04e11",
+      "broadcast": {
+        "year": "2014",
+        "month": "01",
+        "date": "26"
+      },
+      "title": "Easy Com-mercial, Easy Go-mercial",
+      "summary": "Bob hopes that a Super Bowl commercial for the restaurant will bring in more customers, but he ends up in hot water with the rest of the family.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Jordan Peele", "Paul F. Tompkins", "Craig Anton"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ0MDQ4NTM5MF5BMl5BanBnXkFtZTgwMTY5NDg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 12,
+      "season": 4,
+      "id": "s04e12",
+      "broadcast": {
+        "year": "2014",
+        "month": "03",
+        "date": "09"
+      },
+      "title": "The Frond Files",
+      "summary": "During Wagstaff Middle School's open house, Mr. Frond speaks with Bob and Linda in private about Gene's, Louise's, and Tina's allegedly offensive stories about school life.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Aziz Ansari"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzMDAzOTYxMl5BMl5BanBnXkFtZTgwNDY5MTk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 13,
+      "season": 4,
+      "id": "s04e13",
+      "broadcast": {
+        "year": "2014",
+        "month": "03",
+        "date": "16"
+      },
+      "title": "Mazel-Tina",
+      "summary": "The Belchers are hired to cater Tammy's bat mitzvah. Tina gets a lot of attention from the boys when Tammy disappears from the party.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Julie Klausner", "Brooke Dillman"],
+      "image": "https://m.media-amazon.com/images/M/MV5BODQ0NjY0MDU2MV5BMl5BanBnXkFtZTgwMDYyNzg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 14,
+      "season": 4,
+      "id": "s04e14",
+      "broadcast": {
+        "year": "2014",
+        "month": "03",
+        "date": "23"
+      },
+      "title": "Uncle Teddy",
+      "summary": "Teddy is asked to stay with the kids while Bob and Linda attend a burger convention. Tired of Teddy's restrictions, Tina escapes.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Lance Barber",
+        "Brooke Dillman",
+        "Keegan-Michael Key",
+        "Wendy Molyneux",
+        "Eddie Pepitone",
+        "Paul Rust"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzNzM4OTcyMV5BMl5BanBnXkFtZTgwMTI4ODg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 15,
+      "season": 4,
+      "id": "s04e15",
+      "broadcast": {
+        "year": "2014",
+        "month": "03",
+        "date": "30"
+      },
+      "title": "The Kids Rob a Train",
+      "summary": "The Belchers end up seated in a separate car from their kids while on a train trip. Hearing rumors of a chocolate room, the kids and Regular-Sized Rudy attempt to steal all of it.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Matt Walsh", "Michael Showalter", "Lindsey Stoddart"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYwMDU2ODc3Nl5BMl5BanBnXkFtZTgwNzg3NDc5MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 16,
+      "season": 4,
+      "id": "s04e16",
+      "broadcast": {
+        "year": "2014",
+        "month": "04",
+        "date": "06"
+      },
+      "title": "I Get a Psy-chic Out of You",
+      "summary": "After a couple of accurate predictions, everyone thinks Linda is psychic, much to Bob's dismay.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Gary Cole", "Tim Meadows", "Pamela Adlon"],
+      "image": "https://m.media-amazon.com/images/M/MV5BM2ViNDBhNGItYmZmYi00YWRkLTgwMmYtMTI1NGIzMWJkYWQwXkEyXkFqcGdeQXVyNTUxOTE4NzI@._V1_SY1000_CR0,0,1767,1000_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 17,
+      "season": 4,
+      "id": "s04e17",
+      "broadcast": {
+        "year": "2014",
+        "month": "04",
+        "date": "13"
+      },
+      "title": "The Equestranauts",
+      "summary": "Tina attends her first Equestra-con, a convention based on her favorite animated pony show, The Equestranauts. To her surprise, many of the other attendees are middle-aged men called \"Equesticles\", one of whom swindles Tina out of a rare doll. Desperate to see it again, Tina turns to Bob for help.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Kurt Braunohler", "Paul F. Tompkins", "Ron Funches"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI3ODU5NDM1NF5BMl5BanBnXkFtZTgwNDQ4Mjk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 18,
+      "season": 4,
+      "id": "s04e18",
+      "broadcast": {
+        "year": "2014",
+        "month": "04",
+        "date": "20"
+      },
+      "title": "Ambergris",
+      "summary": "Gene, Louise, and Tina find a large piece of ambergris on the beach, and Louise sells it on the black market. Meanwhile, the parents are having the bathroom renovated when the landlord's brother, Felix, is in town.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Zach Galifianakis", "Bill Hader", "Dom Irrera"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3NDUyNDQ3OV5BMl5BanBnXkFtZTgwMzQ4ODg0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 19,
+      "season": 4,
+      "id": "s04e19",
+      "broadcast": {
+        "year": "2014",
+        "month": "04",
+        "date": "27"
+      },
+      "title": "The Kids Run Away",
+      "summary": "Louise flees the dentist's office when she learns she needs a filling, and goes to Aunt Gayle's. Linda and Louise place a high-stakes bet, attempted to be sabotaged by Linda and Bob.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Ken Jeong", "Megan Mullally"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk1Nzk2ODEyOF5BMl5BanBnXkFtZTgwMzU4MTk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 20,
+      "season": 4,
+      "id": "s04e20",
+      "broadcast": {
+        "year": "2014",
+        "month": "05",
+        "date": "04"
+      },
+      "title": "Gene It On",
+      "summary": "Tina is unable to speak when she falls and bites her tongue during tryouts for the cheerleading squad, and Louise is \"hired\" to speak for her. Tension grows as Linda grows more fond of Gene when he makes the team instead of Tina.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Carrie Clifford",
+        "Billy Eichner",
+        "Kurt Braunohler",
+        "Keegan-Michael Key"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BNjI3NzExMTU2OV5BMl5BanBnXkFtZTgwNjc0MDk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 21,
+      "season": 4,
+      "id": "s04e21",
+      "broadcast": {
+        "year": "2014",
+        "month": "05",
+        "date": "11"
+      },
+      "title": "Wharf Horse (or How Bob Saves/Destroys the Town -- Part 1",
+      "summary": "Bob and Felix try to convince Mr. Fischoeder to sell Wonder Wharf. Meanwhile, Tina chains herself to the carousel when she learns it is slated for demolition.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Pamela Adlon",
+        "Zach Galifianakis",
+        "Bill Hader",
+        "Jordan Peele"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUwNDAyMzI1OV5BMl5BanBnXkFtZTgwOTc0MDk0MjE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 22,
+      "season": 4,
+      "id": "s04e22",
+      "broadcast": {
+        "year": "2014",
+        "month": "05",
+        "date": "18"
+      },
+      "title": "World Wharf II: The Wharfening (or How Bob Saves/Destroys the Town -- Part II)",
+      "summary": "Linda and the children rescue Bob and Mr. Fischoeder, who have been tied up under the wharf by Felix.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Gary Cole",
+        "Zach Galifianakis",
+        "Jordan Peele",
+        "Paul F. Tompkins"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg2MjE5Nzc5MF5BMl5BanBnXkFtZTgwNTc0MDk0MjE@._V1_.jpg",
+      "poster": ""
+    }
+  ],
+  [
+    {
+      "episode": 1,
+      "season": 5,
+      "id": "s05e01",
+      "broadcast": {
+        "year": "2014",
+        "month": "10",
+        "date": "05"
+      },
+      "title": "Work Hard or Die Trying, Girl",
+      "summary": "Gene's musical based on Die Hard isn't selected as the school's fall play, so he, with help from Louise, stages a production to run on the same night as Wagstaff Middle School's performance of a Working Girl-inspired musical that features Tina.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Aziz Ansari", "John Michael Higgins", "David Wain"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU2MjY2OTY4MV5BMl5BanBnXkFtZTgwNjM5MDg5MjE@._V1_.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/bc/Bobs_Burgers_MOD_S5_DVD.jpg"
+    },
+    {
+      "episode": 2,
+      "season": 5,
+      "id": "s05e02",
+      "broadcast": {
+        "year": "2014",
+        "month": "11",
+        "date": "02"
+      },
+      "title": "Tina and the Real Ghost",
+      "summary": "Tina begins a romance with a ghost after it is believed to be living in the Belchers' basement.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Andre Royo", "Jordan Peele"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcwNDQ5NzkxMl5BMl5BanBnXkFtZTgwOTY3OTE0MzE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 3,
+      "season": 5,
+      "id": "s05e03",
+      "broadcast": {
+        "year": "2014",
+        "month": "11",
+        "date": "16"
+      },
+      "title": "Friends with Burger-fits",
+      "summary": "Bob and Teddy become workout buddies when Bob finds out that Teddy's bad health is from his burgers. Their friendship is put to the test when they enroll in a stuntman boot camp. Meanwhile, Linda and the kids run an ice wrestling league in their freezer.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Tim Heidecker", "Keegan-Michael Key", "Tim Meadows"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc3ODc2MDMzMV5BMl5BanBnXkFtZTgwMjMxMDU0MzE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 4,
+      "season": 5,
+      "id": "s05e04",
+      "broadcast": {
+        "year": "2014",
+        "month": "11",
+        "date": "23"
+      },
+      "title": "Dawn of the Peck",
+      "summary": "A wild bird attack causes chaos at the First Annual Fischoeder Turk-tacular Turkey Town Festival when Linda and the kids go there for Thanksgiving. Meanwhile, Bob is boycotting the holiday.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Zach Galifianakis",
+        "Bill Hader",
+        "Pamela Adlon",
+        "Brendon Small"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUxNTk2ODEyMV5BMl5BanBnXkFtZTgwNDk4MzI1MzE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 5,
+      "season": 5,
+      "id": "s05e05",
+      "broadcast": {
+        "year": "2014",
+        "month": "11",
+        "date": "30"
+      },
+      "title": "Best Burger",
+      "summary": "Bob and the kids attempt to find a missing black garlic ingredient when Bob enters a burger-tasting contest.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Andrew Daly",
+        "Thomas Lennon",
+        "Ron Lynch",
+        "Kumail Nanjiani"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4YmNhMjEtYWJjMS00NTNkLWI2NDMtOTZmMGMwYzgxZjgzXkEyXkFqcGdeQXVyNjE5NTk2MjA@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 6,
+      "season": 5,
+      "id": "s05e06",
+      "broadcast": {
+        "year": "2014",
+        "month": "12",
+        "date": "07"
+      },
+      "title": "Father of the Bob",
+      "summary": "Bob and his dad, \"Big Bob,\" try to outdo each other in the kitchen when they rehash an old argument at Big Bob's Christmas party. Meanwhile, the kids compete to get the best present for Bob.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Bill Hader", "Nick Offerman", "Carl Reiner", "Jordan Peele"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQyNDU0NzUxN15BMl5BanBnXkFtZTgwMDEzMjkyNDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 7,
+      "season": 5,
+      "id": "s05e07",
+      "broadcast": {
+        "year": "2014",
+        "month": "12",
+        "date": "14"
+      },
+      "title": "Tina Tailor Soldier Spy",
+      "summary": "To find who is leaking their cookie sales leads, Tina starts to spy on her old Thundergirls troop. Meanwhile, Linda becomes a blonde.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Brooke Dillman",
+        "Rachel Dratch",
+        "Sarah Baker",
+        "Betsy Sodaro"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY4NjM4OTYwN15BMl5BanBnXkFtZTgwOTUwMTQyNDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 8,
+      "season": 5,
+      "id": "s05e08",
+      "broadcast": {
+        "year": "2015",
+        "month": "01",
+        "date": "04"
+      },
+      "title": "Midday Run",
+      "summary": "When Tina gets elected for a big hall monitor promotion, she is determined to do whatever it takes to nab the powerful job, so she enlists the help of Gene and Louise.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Sarah Baker", "Tim Meadows"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjExODQ2OTI2OV5BMl5BanBnXkFtZTgwNjU4MDE5MzE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 9,
+      "season": 5,
+      "id": "s05e09",
+      "broadcast": {
+        "year": "2015",
+        "month": "01",
+        "date": "11"
+      },
+      "title": "Speakeasy Rider",
+      "summary": "Tina, Gene and Louise are ready to put the pedal to the metal when they join a go-kart league. Meanwhile, at the restaurant, Bob and Teddy partner up to serve Teddy's home-brewed beer.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Jon Daly",
+        "Ron Lynch",
+        "Robert Ben Garant",
+        "Wendi McLendon-Covey",
+        "Joe Lo Truglio"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BYTdkZTJiNGUtMDJmOS00OGI2LWJiYjctODk5OGYzOGFhZjMwXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX1777_CR0,0,1777,992_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 10,
+      "season": 5,
+      "id": "s05e10",
+      "broadcast": {
+        "year": "2015",
+        "month": "01",
+        "date": "25"
+      },
+      "title": "Late Afternoon in the Garden of Bob and Louise",
+      "summary": "In order to become an accepted member of the Community Garden, Bob must make a deal that results in giving Louise's enemy Logan a job at the restaurant.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Tim Meadows", "Lindsey Stoddart"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk1MzgzNjQ4NF5BMl5BanBnXkFtZTgwOTcyNDkxNDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 11,
+      "season": 5,
+      "id": "s05e11",
+      "broadcast": {
+        "year": "2015",
+        "month": "02",
+        "date": "08"
+      },
+      "title": "Can't Buy Me Math",
+      "summary": "Tina teams up with Darryl to win the Cupid's Couple contest at the school dance. Meanwhile, Linda plans a week of Valentine's Day activities for her and Bob.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Aziz Ansari", "Kurt Braunohler"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTQ3ODA0MTM3OF5BMl5BanBnXkFtZTgwOTQ5NDA0NDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 12,
+      "season": 5,
+      "id": "s05e12",
+      "broadcast": {
+        "year": "2015",
+        "month": "02",
+        "date": "15"
+      },
+      "title": "The Millie-churian Candidate",
+      "summary": "Tina and Louise volunteer to run Jimmy, Jr.'s class president campaign in order to keep Millie from winning, and ruining the school. Meanwhile, Bob becomes obsessed with a $300 knife.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Molly Shannon", "Rachel Dratch"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTc5NjAzNTMwNF5BMl5BanBnXkFtZTgwMTMwNjc0NDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 13,
+      "season": 5,
+      "id": "s05e13",
+      "broadcast": {
+        "year": "2015",
+        "month": "03",
+        "date": "01"
+      },
+      "title": "The Gayle Tales",
+      "summary": "Desperate to get out of the house after being grounded, the kids compete to be Aunt Gayle's \"date\" for the evening via an essay contest.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Megan Mullally", "Rich Fulcher"],
+      "image": "https://m.media-amazon.com/images/M/MV5BODYwNzA2NDM1Ml5BMl5BanBnXkFtZTgwNTI2MTY2NDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 14,
+      "season": 5,
+      "id": "s05e14",
+      "broadcast": {
+        "year": "2015",
+        "month": "03",
+        "date": "08"
+      },
+      "title": "L'il Hard Dad",
+      "summary": "Bob becomes obsessed with his new automatic helicopter. When it falls apart for no reason, he enters into a battle with the manufacturer in order to receive a refund. Gene assists Bob in his quest, but things quickly get out of hand and end in a crazy helicopter battle. Meanwhile, Louise and Linda help Tina prepare for her oral book report on The Call of the Wild.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Dana Snyder"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjkxZTE2NjgtZDE1OS00YTM1LTljZTgtNjM0MDk0OWJiMTNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 15,
+      "season": 5,
+      "id": "s05e15",
+      "broadcast": {
+        "year": "2015",
+        "month": "03",
+        "date": "15"
+      },
+      "title": "Adventures in Chinchilla-sitting",
+      "summary": "Bob and Linda head out on the town for a date - but to Linda's dismay, Bob's idea of romance proves \"trivial\". Meanwhile, a wild chinchilla chase ensues after the school pet that Louise was charged with watching escapes out the front door.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Doug Benson",
+        "Andy Richter",
+        "Paul Rust",
+        "Eddie Pepitone",
+        "Robert Smigel"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI2MjkzOTg2M15BMl5BanBnXkFtZTgwODU4NTg4NDE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 16,
+      "season": 5,
+      "id": "s05e16",
+      "broadcast": {
+        "year": "2015",
+        "month": "03",
+        "date": "22"
+      },
+      "title": "The Runway Club",
+      "summary": "The kids are sentenced to Saturday detention, and will do anything it takes to leave early so they can attend the Cotton Candy Festival. Meanwhile, Bob and Linda believe they are being scammed by a young girl at the restaurant.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Brooke Dillman"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI1NDM4ODE1NF5BMl5BanBnXkFtZTgwMjk3MTgwNTE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 17,
+      "season": 5,
+      "id": "s05e17",
+      "broadcast": {
+        "year": "2015",
+        "month": "04",
+        "date": "26"
+      },
+      "title": "Itty Bitty Ditty Committee",
+      "summary": "Gene starts a band with Tina, Louise, Rudy, Peter and Daryl, only to be kicked out and left on his own. After declaring that he will never play his Casio again, Tina and Louise join forces to help Gene rediscover his love of music. Meanwhile, Linda deals with an armpit rash.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Aziz Ansari", "Ron Lynch"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTEwMTUyNjQ3NzheQTJeQWpwZ15BbWU4MDMwMDExNTUx._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 18,
+      "season": 5,
+      "id": "s05e18",
+      "broadcast": {
+        "year": "2015",
+        "month": "05",
+        "date": "03"
+      },
+      "title": "Eat, Spray, Linda",
+      "summary": "It's Linda's birthday, and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing. Mayhem ensues as the Belchers must work together to find Linda.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Drew Droege", "Todd Barry", "Seth Morris", "Jordan Peele"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI0NDEyMDY3M15BMl5BanBnXkFtZTgwMjc2NTI3NTE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 19,
+      "season": 5,
+      "id": "s05e19",
+      "broadcast": {
+        "year": "2015",
+        "month": "05",
+        "date": "10"
+      },
+      "title": "Housetrap",
+      "summary": "In true Belcher fashion, the family gets stuck in a terrible storm while vacationing at a beach house in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of the home.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Kaitlin Olson"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMmU3NjQwZmYtYjNiMy00ZTkzLTk1YzUtYTNmYTg0ZTdhMDc0XkEyXkFqcGdeQXVyNDYyNjgxNTg@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 20,
+      "season": 5,
+      "id": "s05e20",
+      "broadcast": {
+        "year": "2015",
+        "month": "05",
+        "date": "17"
+      },
+      "title": "Hawk & Chick",
+      "summary": "Bob and Louise are thrilled when they meet Hawk, the star of their favorite martial arts series, and are quick to offer help upon learning about his family troubles.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Keisuke Hoashi", "Suzy Nakamura"],
+      "image": "https://m.media-amazon.com/images/M/MV5BOTZiMTcyOTAtOTgyZS00MGM4LWJjZGEtNTI2NmNhYWJhNzFmXkEyXkFqcGdeQXVyMTc2ODAxMg@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 21,
+      "season": 5,
+      "id": "s05e21",
+      "broadcast": {
+        "year": "2015",
+        "month": "05",
+        "date": "17"
+      },
+      "title": "The Oeder Games",
+      "summary": "With the threat of a rent increase on Ocean Avenue, Bob and the other tenants rebel. After approaching Fischoeder, the tenants find out that they will have to compete in order to convince him to keep their rents reasonable.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Zach Galifianakis", "Fred Stoller"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZjRmMzY5ZTgtMzU3Mi00NzljLWJkYzgtNWEwMWVmN2M3NDUxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY999_SX1776_AL_.jpg",
+      "poster": ""
+    }
+  ],
+  [
+    {
+      "episode": 1,
+      "season": 6,
+      "id": "s06e01",
+      "broadcast": {
+        "year": "2015",
+        "month": "09",
+        "date": "27"
+      },
+      "title": "Sliding Bobs",
+      "summary": "After Bob notices that he is losing hair from his moustache, Linda tells how important his moustache was in their meeting. The kids then tell their own versions of how Bob and Linda would have met, if Bob didn't have a moustache at that time.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Gary Cole", "Ron Lynch"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTk3MTc0ODE3NV5BMl5BanBnXkFtZTgwODUwNTA3NjE@._V1_SY999_SX1776_AL_.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/b/b5/Season_6_of_Bob%27s_Burgers.png"
+    },
+    {
+      "episode": 2,
+      "season": 6,
+      "id": "s06e02",
+      "broadcast": {
+        "year": "2015",
+        "month": "10",
+        "date": "11"
+      },
+      "title": "The Land Ship",
+      "summary": "During the Land Ship parade, which Bob thinks will increase business of his restaurant, four port-a-potties are placed in front of it to his dismay. Meanwhile, after Tina's friends tell her that she is boring, she decides to join up with Jordan in vandalizing by spraying with graffiti.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Billy Eichner", "Nathan Fielder"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMxNDE2MTU3Ml5BMl5BanBnXkFtZTgwMzUwNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 3,
+      "season": 6,
+      "id": "s06e03",
+      "broadcast": {
+        "year": "2015",
+        "month": "10",
+        "date": "18"
+      },
+      "title": "The Hauntening",
+      "summary": "When Louise reveals that she has never been scared before, the Belchers visit a haunted house on Halloween in an attempt to scare her.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Max Greenfield"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZDdlZjk2MDAtN2EyOC00OWZmLWIxOTctZWZhYWU5NTNiNmY2XkEyXkFqcGdeQXVyNzE4Mzg0NzI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 4,
+      "season": 6,
+      "id": "s06e04",
+      "broadcast": {
+        "year": "2015",
+        "month": "11",
+        "date": "08"
+      },
+      "title": "Gayle Makin' Bob Sled",
+      "summary": "The Belchers' Thanksgiving festivities are put in jeopardy when Bob finds himself staying with an injured Aunt Gayle during a snowstorm.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Megan Mullally"],
+      "image": "https://m.media-amazon.com/images/M/MV5BODY2OTYzMDk0Nl5BMl5BanBnXkFtZTgwNjkwNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 5,
+      "season": 6,
+      "id": "s06e05",
+      "broadcast": {
+        "year": "2015",
+        "month": "11",
+        "date": "15"
+      },
+      "title": "Nice-Capades",
+      "summary": "When a grumpy mall Santa threatens to put Tina, Gene, and Louise on the \"Naughty List\", they try to convince him that they are nicce by putting on an Ice Capades-style musical show at the mall's skating rink.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Zach Galifianakis", "Henry Winkler", "Jessica Lowe"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjEzODQ1OTMyNl5BMl5BanBnXkFtZTgwNDAxNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 6,
+      "season": 6,
+      "id": "s06e06",
+      "broadcast": {
+        "year": "2016",
+        "month": "01",
+        "date": "17"
+      },
+      "title": "The Cook, the Steve, the Gayle, & Her Lover",
+      "summary": "When Bob throws a dinner party to bond with his new friend, Gayle uses the opportunity to introduce the family to her new love interest. Little does she know, Louise has a long-standing feud with Gayle’s boyfriend and her niece will stop at nothing to break them apart. Calamity ensues as Bob attempts to impress his new buddy and the kids take action.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Megan Mullally", "Rob Huebel"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjJiZWNhM2ItM2RhOS00NjA3LTg1ZGYtYTMyYWIzMDI1MzBkXkEyXkFqcGdeQXVyNTUxOTE4NzI@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 7,
+      "season": 6,
+      "id": "s06e07",
+      "broadcast": {
+        "year": "2016",
+        "month": "02",
+        "date": "14"
+      },
+      "title": "The Gene and Courtney Show",
+      "summary": "Gene and Courtney are asked to host the morning announcements, but their romantic history threatens to get in the way of their big break. Meanwhile, Tina's attempt to play Cupid at the Valentine's Day carnation fundraiser goes tragically awry.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "David Wain",
+        "Will Forte",
+        "John Michael Higgins",
+        "Tymberlee Hill"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU1NDUyNDc3N15BMl5BanBnXkFtZTgwNzQ0OTQwODE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 8,
+      "season": 6,
+      "id": "s06e08",
+      "broadcast": {
+        "year": "2016",
+        "month": "02",
+        "date": "21"
+      },
+      "title": "Sexy Dance Healing",
+      "summary": "Bob must take legal action after he slips on the sidewalk and needs to pay for surgery, and ends up under the care of Jairo, who attempts to heal him without a doctor. Meanwhile, Gene, Louise, and Tina create a fake law firm to settle their discrepancies towards each other.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Steve Buscemi", "Rob Huebel", "Jon Glaser"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZGY4N2JkN2EtM2IyNy00OTMzLTg5N2ItZTBkOWEzYWM2NDBlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 9,
+      "season": 6,
+      "id": "s06e09",
+      "broadcast": {
+        "year": "2016",
+        "month": "02",
+        "date": "21"
+      },
+      "title": "Sacred Couch",
+      "summary": "When Linda convinces the Belchers to not replace their old couch with a new one, Louise decides to take matters into her own hands.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Wanda Sykes", "Jordan Peele", "Keegan-Michael Key"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZDdmMTI4MjYtZmE1OS00NTgxLTk4ODAtNzY0Y2RlY2NkMTEyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 10,
+      "season": 6,
+      "id": "s06e10",
+      "broadcast": {
+        "year": "2016",
+        "month": "03",
+        "date": "06"
+      },
+      "title": "Lice Things Are Lice",
+      "summary": "A head lice infestation breaks out in Wagstaff when Tina volunteers as a nurse. Meanwhile, Bob tries to make improvements to the new bar stool seats in his restaurant.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Samantha Bee", "Tim Meadows", "Billy Eichner"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg4MjE3OTYxNl5BMl5BanBnXkFtZTgwNTkxNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 11,
+      "season": 6,
+      "id": "s06e11",
+      "broadcast": {
+        "year": "2016",
+        "month": "03",
+        "date": "13"
+      },
+      "title": "House of 1000 Bounces",
+      "summary": "When a bounce house crisis occurs during Regular-Sized Rudy's birthday party, Gene, Louise, and Tina must come to the rescue. Meanwhile, Bob tries to deal with his longstanding fear of pigeons after one shows up in his restaurant.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Jon Daly", "Jessica Lowe", "Katie Crown", "Beth Dover"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM5NzkxMDc1N15BMl5BanBnXkFtZTgwMDEyNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 12,
+      "season": 6,
+      "id": "s06e12",
+      "broadcast": {
+        "year": "2016",
+        "month": "04",
+        "date": "03"
+      },
+      "title": "Stand by Gene",
+      "summary": "Gene, Louise, Tina, and their friends go on a journey to look for a mythical creature that supposedly lives nearby. Meanwhile, during downtime at the restaurant, Linda's competitive nature sends her into overdrive.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Tim Meadows", "Aziz Ansari"],
+      "image": "https://m.media-amazon.com/images/M/MV5BODIyZGU0YjMtNDgwYS00ZmRmLWIzM2QtNGJjNjgzZDRjYjdjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzA0NzgyNjg@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 13,
+      "season": 6,
+      "id": "s06e13",
+      "broadcast": {
+        "year": "2016",
+        "month": "04",
+        "date": "03"
+      },
+      "title": "Wag the Hog",
+      "summary": "The Belchers must help Bob's longtime friend, Critter, after he ends up in jail for unpaid parking tickets Meanwhile, Linda gets a job at babysitting, but it ends up becoming more than she expected.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Sarah Baker",
+        "Joe Lo Truglio",
+        "Wendi McLendon-Covey",
+        "Thomas Lennon",
+        "Robert Ben Garant"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BNTg1ODIzMjA2MV5BMl5BanBnXkFtZTgwNjEyNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 14,
+      "season": 6,
+      "id": "s06e14",
+      "broadcast": {
+        "year": "2016",
+        "month": "04",
+        "date": "10"
+      },
+      "title": "The Hormone-iums",
+      "summary": "Tina gets her chance to be solist of the Hormone-iums in a play, but realizes the role could end up ruining her social status. Meanwhile, Linda comes up with a business plan that she thinks will make the Belchers right.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Samantha Shelton",
+        "Aziz Ansari",
+        "Zach Galifianakis",
+        "Drew Droege",
+        "Tim Meadows"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1NjgwMjg0Nl5BMl5BanBnXkFtZTgwMDIyNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 15,
+      "season": 6,
+      "id": "s06e15",
+      "broadcast": {
+        "year": "2016",
+        "month": "04",
+        "date": "24"
+      },
+      "title": "Pro Tiki/Con Tiki",
+      "summary": "Bob's friend, Warren, comes to town and makes an offer to invest in the restaurant, which could use a much-needed makeover, but their decorating ideas do not go well with each other. Meanwhile, Gene gives up his bedroom to houseguest Warren.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Chris Parnell", "Craig Anton"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg1ODExMjAzM15BMl5BanBnXkFtZTgwMDA5MTg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 16,
+      "season": 6,
+      "id": "s06e16",
+      "broadcast": {
+        "year": "2016",
+        "month": "05",
+        "date": "08"
+      },
+      "title": "Bye Bye Boo Boo",
+      "summary": "After hearing that Boo Boo is leaving Boyz 4 Now, Louise enters a contest that could finally give Tina a chance to meet him. Meanwhile, Bob and Linda learn about a mobster who got shot in the restaurant in 1931, which causes tension between Bob and Jimmy Pesto.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Gabe Liedman",
+        "Rich Fulcher",
+        "Max Greenfield",
+        "Tim Meadows"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTcyNDM0MTY0MV5BMl5BanBnXkFtZTgwNDMwNjY4ODE@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 17,
+      "season": 6,
+      "id": "s06e17",
+      "broadcast": {
+        "year": "2016",
+        "month": "05",
+        "date": "15"
+      },
+      "title": "The Horse Rider-er",
+      "summary": "Tina finally gets to attend horse camp, but realizes she must part ways with her imaginary horse, Jericho. Meanwhile, Linda creates a restaurant camp in order to even things out between Gene and Louise.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Paul Rudd", "Brooke Dillman"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjMyNzg2NjMzMV5BMl5BanBnXkFtZTgwMTQyNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 18,
+      "season": 6,
+      "id": "s06e18",
+      "broadcast": {
+        "year": "2016",
+        "month": "05",
+        "date": "22"
+      },
+      "title": "Secret Admiral-irer",
+      "summary": "When a grumpy mall Santa threatens to put Tina, Gene, and Louise on the \"Naughty List\", they try to convince him that they are nicce by putting on an Ice Capades-style musical show at the mall's skaing rink.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Joe Lo Truglio", "Cloris Leachman", "Gary Cole"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM3MTQ2MTkxM15BMl5BanBnXkFtZTgwMDQyNDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 19,
+      "season": 6,
+      "id": "s06e19",
+      "broadcast": {
+        "year": "2016",
+        "month": "05",
+        "date": "22"
+      },
+      "title": "Glued, Where's My Bob?",
+      "summary": "Gene, Louise, and Tina's goop war causes Bob to end up in a sticky situation, where he learns that a journalist is coming to the restaurant to do a story on it, and the whole town ends up getting involved.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Rob Huebel", "Tim Meadows", "Ken Jeong", "Kumail Nanjiani"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTYzNTYwNDEyN15BMl5BanBnXkFtZTgwMjQyNDg1MDI@._V1_.jpg",
+      "poster": ""
+    }
+  ],
+  [
+    {
+      "episode": 1,
+      "season": 7,
+      "id": "s07e01",
+      "broadcast": {
+        "year": "2016",
+        "month": "09",
+        "date": "25"
+      },
+      "title": "Flu-ouise",
+      "summary": "Louise comes down with the flu and has a Wizard of Oz-esque fever dream involving a disfigured Kuchi Kopi and her toys, who have the voices of her family.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Amy Schumer"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZTNmMDlkMDUtM2U1Yi00ZjMxLTlhOTMtMTIyZDhiZDYzYmZkL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/10/Bob%27s_Burgers_season_7.png"
+    },
+    {
+      "episode": 2,
+      "season": 7,
+      "id": "s07e02",
+      "broadcast": {
+        "year": "2016",
+        "month": "10",
+        "date": "09"
+      },
+      "title": "Sea Me Now",
+      "summary": "Teddy tries to impress his ex-wife, Denise, when the Belchers accompany him for a ride on his newly restored boat. Meanwhile, Tina takes care of Bob's restaurant eraser, in an attempt to get her own cell phone.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BODI1ZDRhMzAtMmMzZS00MzA0LWI0ZDktMzEwOTgzMmE0M2VjL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 3,
+      "season": 7,
+      "id": "s07e03",
+      "broadcast": {
+        "year": "2016",
+        "month": "10",
+        "date": "23"
+      },
+      "title": "Teen-a Witch",
+      "summary": "Tina seeks Mr. Ambrose's help in competing against Tammy in the Halloween costume contest. Meanwhile, Bob tries to figure out who is stealing his pumpkins.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Betsy Sodaro", "Billy Eichner"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjI4OTQxMzIwNl5BMl5BanBnXkFtZTgwOTExNzY0MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 4,
+      "season": 7,
+      "id": "s07e04",
+      "broadcast": {
+        "year": "2016",
+        "month": "11",
+        "date": "06"
+      },
+      "title": "They Serve Horses, Don't They?",
+      "summary": "The Belchers find themselves in a full-blown investigation when Bob secures a new meat provider who claims to save clients money on their orders.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Ken Marino", "Ron Lynch"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5MDIwNDA3M15BMl5BanBnXkFtZTgwOTA0NDg1MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 5,
+      "season": 7,
+      "id": "s07e05",
+      "broadcast": {
+        "year": "2016",
+        "month": "11",
+        "date": "20"
+      },
+      "title": "Large Brother, Where Fart Thou?",
+      "summary": "Gene and Louise are on their own when a mishap sends Tina to detention, while Bob and Linda get into trouble with their accountant.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Erik Griffin", "Kurt Braunohler"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTUyMzUyODA2OV5BMl5BanBnXkFtZTgwNDU2MDY2MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 6,
+      "season": 7,
+      "id": "s07e06",
+      "broadcast": {
+        "year": "2016",
+        "month": "11",
+        "date": "20"
+      },
+      "title": "The Quirkducers",
+      "summary": "Gene and Louise decide to sabotage the annual Thanksgiving play to save their long weekend, but Tina provides her fan fiction as the subject matter, leading the kids to work on their own version. Meanwhile, Linda finds a potato that resembles her deceased grandfather.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTU3MTA4MTExOV5BMl5BanBnXkFtZTgwMzU2MDY2MDI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 7,
+      "season": 7,
+      "id": "s07e07",
+      "broadcast": {
+        "year": "2016",
+        "month": "11",
+        "date": "27"
+      },
+      "title": "The Last Gingerbread House on the Left",
+      "summary": "Bob gets involved in a gingerbread house competition when Mr. Fischoeder asks him to bring food to his house. Meanwhile, Linda and Teddy take the kids caroling to spread holiday cheer.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Zach Galifianakis",
+        "Andrew Daly",
+        "Andrés du Bouchet",
+        "Pamela Adlon"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BYTc5ZWNmYzAtZTI4Ny00Y2ZjLTkwYTItNjkyZjc4NWUxMjdiL2ltYWdlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 8,
+      "season": 7,
+      "id": "s07e08",
+      "broadcast": {
+        "year": "2017",
+        "month": "01",
+        "date": "08"
+      },
+      "title": "Ex Mach Tina",
+      "summary": "When Tina hurts her ankle, she is offered a chance to try a new technology that allows her to telecommute to school. Meanwhile, Bob gets a banjo and tries to find his perfect \"banjo moment\".",
+      "characters": [],
+      "tags": [],
+      "guests": ["Robert Smigel", "Samantha Bee"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNTI5NWM4NGUtYzJhOS00Nzg5LWFjZTUtYjlhYWY0YTBhODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 9,
+      "season": 7,
+      "id": "s07e09",
+      "broadcast": {
+        "year": "2017",
+        "month": "02",
+        "date": "12"
+      },
+      "title": "Bob Actually",
+      "summary": "As Valentine's Day approaches, the kids find themselves in love-caused chaos. Meanwhile, Bob attempts to impress Linda with a romantic gesture.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Stephanie Beatriz",
+        "Daniel Van Kirk",
+        "Gabrielle Sanalitro",
+        "Sarah Baker",
+        "Brooke Dillman"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BOGVmNmY5MWQtOThjNS00M2E4LWExMTktYjk2OWU1YjAwYzBiXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 10,
+      "season": 7,
+      "id": "s07e10",
+      "broadcast": {
+        "year": "2017",
+        "month": "02",
+        "date": "19"
+      },
+      "title": "There's No Business Like Mr. Business Business",
+      "summary": "When Bob finds out that Linda has secured a pet agent to fund the showbiz career of Gayle's cat, Mr. Business, he attempts to help the cat in getting his big break. Meanwhile, Gene and Tina secretly become obsessed with eating cat food.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Megan Mullally", "John Oliver"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNDZiMGYwYWUtNWUyZS00OGRmLWFiYzQtZTY4MTRiY2EzNGJhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 11,
+      "season": 7,
+      "id": "s07e11",
+      "broadcast": {
+        "year": "2017",
+        "month": "03",
+        "date": "05"
+      },
+      "title": "A Few 'Gurt Men",
+      "summary": "Louise must defend one of her biggest foes during a mock-trial at Wagstaff. Meanwhile, Bob teams up with Jimmy Pesto to oust a regular food-scammer.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Gary Anthony Williams", "Billy Eichner", "Sarah Baker"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZTMwYzNjM2ItMjZkYi00NmUxLWJjZTUtNGEyNzRmYzY5YmQzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 12,
+      "season": 7,
+      "id": "s07e12",
+      "broadcast": {
+        "year": "2017",
+        "month": "03",
+        "date": "12"
+      },
+      "title": "Like Gene for Chocolate",
+      "summary": "When Gene finds out that the formula for his favorite chocolate has changed, he attempts to resolve the situation with the company's head. Meanwhile, Bob gets involved in one of Teddy's not-so-perfect plans.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Judah Friedlander", "Brooke Dillman"],
+      "image": "https://m.media-amazon.com/images/M/MV5BYWZkZjQwYTItZTgwNy00Nzc0LTk4YWItYWZhYTYwNzkxMDQ5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 13,
+      "season": 7,
+      "id": "s07e13",
+      "broadcast": {
+        "year": "2017",
+        "month": "03",
+        "date": "19"
+      },
+      "title": "The Grand Mama-Pest Hotel",
+      "summary": "After seeing Tina make a new friend, Linda begins invading her space at a heroine conference. Meanwhile, Gene and Louise give Bob the bachelor party he never had.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Kerri Kenney"],
+      "image": "https://m.media-amazon.com/images/M/MV5BODM2YjFjNjQtYzUwNS00NDU1LWJlYjktODM4ODU0MzFmNDM2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 14,
+      "season": 7,
+      "id": "s07e14",
+      "broadcast": {
+        "year": "2017",
+        "month": "03",
+        "date": "26"
+      },
+      "title": "Aquaticism",
+      "summary": "When Tina learns that the Touch n' Sea Aquarium is in danger of shutting down, Gene and Louise decide to help her come up with a plan to save it. Meanwhile, Bob finds himself learning a few things from Linda's customer service skills.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Ken Marino", "Kerri Kenney"],
+      "image": "https://m.media-amazon.com/images/M/MV5BOTEwMDNjYzAtMGIxZS00N2JkLWE2MjMtY2NhNzllNmZjN2E3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 15,
+      "season": 7,
+      "id": "s07e15",
+      "broadcast": {
+        "year": "2017",
+        "month": "03",
+        "date": "26"
+      },
+      "title": "Ain't Miss Debatin'",
+      "summary": "Tina unexpectedly finds success and a relationship with Henry when she is recruited by Wagstaff's debate team. Meanwhile, Gene and Louise convince Bob and Linda to help fund their stop-motion film.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Rhys Darby",
+        "Nick Kroll",
+        "Jon Daly",
+        "Keegan-Michael Key",
+        "Ron Lynch"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BNTFjMmUyYmEtMTUyYy00MGI2LWFmNGYtYzRkMWE1Yzk0ZGY5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 16,
+      "season": 7,
+      "id": "s07e16",
+      "broadcast": {
+        "year": "2017",
+        "month": "04",
+        "date": "02"
+      },
+      "title": "Eggs for Days",
+      "summary": "Bob and Linda's Easter egg hunt for the kids goes wrong when a missing egg becomes rotten and stinks up their apartment.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BN2NlMWQ4ZTEtYWQyYy00NDMxLWJkYTgtZDY3Mjg3MTQyN2U1XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 17,
+      "season": 7,
+      "id": "s07e17",
+      "broadcast": {
+        "year": "2017",
+        "month": "04",
+        "date": "23"
+      },
+      "title": "Zero Larp Thirty",
+      "summary": "Linda wins a dream weekend at the house where her favorite TV show is filmed, but her trip does not go as planned. Meanwhile, Teddy looks after the kids, but his bad back forces him to stay on the floor.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Keegan-Michael Key",
+        "John Michael Higgins",
+        "Jessica St. Clair"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BZTFmMWNkZjgtY2M2Mi00NmJjLWE0ZjQtMjBjZDQ2NGNkYjk5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 18,
+      "season": 7,
+      "id": "s07e18",
+      "broadcast": {
+        "year": "2017",
+        "month": "04",
+        "date": "23"
+      },
+      "title": "The Laser-inth",
+      "summary": "Gene goes with Bob to the planetarium's final rock-and-roll laser show. Meanwhile, Linda, Louise, and Tina go out to dinner at a wacky restaurant, where Louise has a revelation.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Wyatt Cenac", "Todd Barry", "Dave Attell"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBjNTIzNGMtZDJkZC00NTUyLWJiMDMtOTNkNDhmM2EwMmM5XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 19,
+      "season": 7,
+      "id": "s07e19",
+      "broadcast": {
+        "year": "2017",
+        "month": "04",
+        "date": "30"
+      },
+      "title": "Thelma & Louise Except Thelma is Linda",
+      "summary": "After Louise gets in trouble at school, Linda is forced to choose between following Wagstaff's policy or her own moral code. Meanwhile, Bob finds himself alone when Teddy decides to help a bunch of cyclists.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Brooke Dillman"],
+      "image": "https://m.media-amazon.com/images/M/MV5BOGEzNGJhZWItMmRkZi00MDQ5LWE2YTgtMDVlMmJhOWNlNzllXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 20,
+      "season": 7,
+      "id": "s07e20",
+      "broadcast": {
+        "year": "2017",
+        "month": "05",
+        "date": "07"
+      },
+      "title": "Mom, Lies, and Videotapes",
+      "summary": "Linda comes down with a cold and cannot attend the Mother's Day show at Wagstaff, so the kids decide to put on their version of the pageant for her when Bob's camcorder malfunctions.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Stephanie Beatriz", "David Wain", "Molly Shannon"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZGE1YzhlZDEtYWY0Yy00OTcyLTg0YzMtY2VlM2U1ZTZiMWNkXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 21,
+      "season": 7,
+      "id": "s07e21",
+      "broadcast": {
+        "year": "2017",
+        "month": "05",
+        "date": "21"
+      },
+      "title": "Paraders of the Lost Float",
+      "summary": "With the promise of an easy win, Teddy persuades Bob to enter the Bog to Beach parade float contest, despite the rainy weather that will occur on the day of the parade.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BMjZiMDQwYzItOGQxZS00NDYzLWJmMGItNGU3Zjc3NmQ1NDZjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 22,
+      "season": 7,
+      "id": "s07e22",
+      "broadcast": {
+        "year": "2017",
+        "month": "06",
+        "date": "11"
+      },
+      "title": "Into the Mild",
+      "summary": "When Bob finally realizes his dream of becoming an outdoorsman, he goes to a wilderness survival store that's going out of business -- and ends up locked there overnight with the store's owner, Austin (voiced by Rob Riggle). Meanwhile, Linda and the kids attend a rehearsal for Gayle's one-woman show and Linda and Gayle get into an argument over an encounter they had with Delta Burke.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Rob Riggle", "Megan Mullally"],
+      "image": "https://m.media-amazon.com/images/M/MV5BYzU5M2I0YTctNDVjYi00ZDE4LTk1MWYtYWMyNjU5ZjM3MmZlXkEyXkFqcGdeQXVyMzc4NjYzNzg@._V1_.jpg",
+      "poster": ""
+    }
+  ],
+  [
+    {
+      "episode": 1,
+      "season": 8,
+      "id": "s08e01",
+      "broadcast": {
+        "year": "2017",
+        "month": "10",
+        "date": "01"
+      },
+      "title": "Brunchsquatch",
+      "summary": "In this episode inspired by actual fan-art of the Bob's Burgers characters, the Belcher kids want a dog, but Bob and Linda refuse. After seeing Jimmy Pesto serve brunch at his restaurant, Bob decides to do the same thing at Bob's Burgers, but Linda overdoes it with the serving of the mimosas. Meanwhile, the kids hide Felix from Mr. Fischoeder.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Lindsey Stoddart",
+        "Jennifer Smedley",
+        "Brian Gattas",
+        "John Early",
+        "Zach Galifianakis"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMmFkNWE0OTQtZGY4MS00NzBjLWE0YjItODc1MDdhNDUwMzU5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/3/34/Bob%27s_Burgers_%28season_8%29.png"
+    },
+    {
+      "episode": 2,
+      "season": 8,
+      "id": "s08e02",
+      "broadcast": {
+        "year": "2017",
+        "month": "10",
+        "date": "15"
+      },
+      "title": "The Silence of the Louise",
+      "summary": "Louise teams up with the psychotic Millie to find out who mutilated Mr. Frond's therapy dolls. Meanwhile, Teddy attempts to make an inspirational poster.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Lennon Parham", "Molly Shannon", "Billy Eichner"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZGE3ZWFiMjMtMGJjYi00ODA3LTgwOTYtMDMyMzUzNzQ2NDQzXkEyXkFqcGdeQXVyMjc2OTA1ODI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 3,
+      "season": 8,
+      "id": "s08e03",
+      "broadcast": {
+        "year": "2017",
+        "month": "10",
+        "date": "22"
+      },
+      "title": "The Wolf of Wharf Street",
+      "summary": "On Halloween, Linda takes the kids out to search for a wolf that may have been scaring the townspeaople. Meanwhile, an injured Bob thinks that Teddy might be a werewolf.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Zach Galifianakis", "Pamela Adlon", "Paul F. Tompkins"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM2ZWEwNjQtY2EzNC00MTU4LTliMDItMWM3MDg3ZTM4ZDExXkEyXkFqcGdeQXVyNDYyNjgxNTg@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 4,
+      "season": 8,
+      "id": "s08e04",
+      "broadcast": {
+        "year": "2017",
+        "month": "11",
+        "date": "05"
+      },
+      "title": "Sit Me Baby One More Time",
+      "summary": "Tina's babysitting business gets derailed when her longtime nemesis, Tammy, is forced to work with her. Meanwhile, the other Belchers have dinner at a restaurant known for its burgers.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Maria Bamford", "Billy Eichner"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMmZmN2Y2NzMtMjk2Ni00MmY3LThiYjctMmYyMWQ4ZGM2MjA0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 5,
+      "season": 8,
+      "id": "s08e05",
+      "broadcast": {
+        "year": "2017",
+        "month": "11",
+        "date": "19"
+      },
+      "title": "Thanks-hoarding",
+      "summary": "The Belchers agree to help oiut Teddy after his family announces that they will be coming over for Thanksgiving. During the preparation, the Belchers discover that Teddy is secretly a hoarder.",
+      "characters": [],
+      "tags": [],
+      "guests": [],
+      "image": "https://m.media-amazon.com/images/M/MV5BYjBjYTAzMTYtNWExNS00OTkyLTgwZTItZjAxY2Y5MDZlNTYzXkEyXkFqcGdeQXVyODI1OTI4OTk@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 6,
+      "season": 8,
+      "id": "s08e06",
+      "broadcast": {
+        "year": "2017",
+        "month": "12",
+        "date": "10"
+      },
+      "title": "The Bleakening Part 1 &2",
+      "summary": "In this hour-long musical Christmas episode, Linda decides to throw a festive party at the restaurant, but someone steals Linda's Christmas tree and her ornaments. The kids suspect it might be a character from a folk tale told to them by Teddy.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Gary Cole",
+        "Adam Driver",
+        "John Early",
+        "Todrick Hall",
+        "Pamela Adlon"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BMmMxY2VhYTktNjVmYy00MWJjLThmODUtZmMwZTE4ZGE5YTI4XkEyXkFqcGdeQXVyNzE4Mzg0NzI@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 8,
+      "season": 8,
+      "id": "s08e07",
+      "broadcast": {
+        "year": "2018",
+        "month": "01",
+        "date": "14"
+      },
+      "title": "V for Valentine-detta",
+      "summary": "On Valentine's Day, Tina gets her heart broken, so Linda and Louise attempt to cheer her up by taking her on a girls' limo night out. Meanwhile, Bob and Gene become closer than ever when they attempt to perform a trapeze act.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Wyatt Cenac", "Minty Lewis", "Jillian Bell", "Ron Funches"],
+      "image": "https://m.media-amazon.com/images/M/MV5BY2UzYTBhNTItNTgyOC00ZTdlLWJiMjEtZWY2NTVhOTUwOWRlXkEyXkFqcGdeQXVyNDYyNjgxNTg@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 9,
+      "season": 8,
+      "id": "s08e08",
+      "broadcast": {
+        "year": "2018",
+        "month": "03",
+        "date": "11"
+      },
+      "title": "Y Tu Ga-Ga Tambien",
+      "summary": "Gene disapproves of a new playground game, which throws the school into chaos. Meanwhile, Linda develops a storyteller persona when she fills in at the local library.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Andy Richter"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZWRlNjJlY2ItZmQ3OS00ODczLTg5YzgtMGMwNmQyN2FkMWE0XkEyXkFqcGdeQXVyNDA1NTk0NzA@._V1_SY1000_CR0,0,1600,1000_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 10,
+      "season": 8,
+      "id": "s08e09",
+      "broadcast": {
+        "year": "2018",
+        "month": "03",
+        "date": "18"
+      },
+      "title": "The Secret Ceramics Room of Secrets",
+      "summary": "The kids set out to find a secret ceramics room in their school, after Linda tells them to make their own gifts for her mother's birthday. Meanwhile, Teddy moves his phone repair service into the retaurant, much to Bob's annoyance.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Billy Eichner", "Pamela Adlon"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZjBmNzg3MTItY2Q2Ni00NWRhLWIxMzQtZTEyMmFjYzBkNWFmXkEyXkFqcGdeQXVyNDA1NTk0NzA@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 11,
+      "season": 8,
+      "id": "s08e10",
+      "broadcast": {
+        "year": "2018",
+        "month": "03",
+        "date": "25"
+      },
+      "title": "Sleeping with the Frenemy",
+      "summary": "Tina sets Tammy up with Brett, a boy from out of town, after she allows Tammy t ostay with the Belchers during Spring Break. Meanwhile, Gene loses his last baby tooth, so he and Bob enlist Dr. Yap's help in finding a replacement to complete Linda's teeth collection.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Andy Samberg", "Ken Jeong"],
+      "image": "https://m.media-amazon.com/images/M/MV5BMDBhMTdjZDctZDMwZi00N2NmLThkMDMtMTg1NzAxMmM5NmJjXkEyXkFqcGdeQXVyNDA1NTk0NzA@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 12,
+      "season": 8,
+      "id": "s08e11",
+      "broadcast": {
+        "year": "2018",
+        "month": "04",
+        "date": "01"
+      },
+      "title": "The Hurt Soccer",
+      "summary": "After forgetting that they signed up Louise for a soccer league, the Blechers must help her prepare to play in the season's last game. Meanwhile, Linda and Gene seize an opportunity to turn the restaurant into a piano bar.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Rachel Dratch", "Katie Crown", "Natalie Palamides"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNDQ1ZmY1MWUtZDQzZi00ZTYyLTlhODAtMDZjNzRlOWRjODNhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 13,
+      "season": 8,
+      "id": "s08e12",
+      "broadcast": {
+        "year": "2018",
+        "month": "04",
+        "date": "08"
+      },
+      "title": "Cheer Up, Sleepy Gene",
+      "summary": "Gene gets invited to his first sleepover, and things do not go as planned. Meanwhile, Bob and Linda record themselves while sleeping to prove who snores more.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Thomas Middleditch", "Brooke Dillman"],
+      "image": "https://m.media-amazon.com/images/M/MV5BYWY4MjBjZmMtYjY5NS00OWUzLTlhYTMtYTZiMjJlZTExMzY1XkEyXkFqcGdeQXVyNDU2MTk4NDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 14,
+      "season": 8,
+      "id": "s08e13",
+      "broadcast": {
+        "year": "2018",
+        "month": "04",
+        "date": "15"
+      },
+      "title": "The Trouble with Doubles",
+      "summary": "When Bob and Linda go on a double date with another couple, they all end up getting trapped in an escape room. Meanwhile, at the Belcher house, Louise hosts a zombie movie night, and Tina has to take charge when everyone else gets scared of the zombies.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Aziz Ansari", "John Gemberling", "Tami Sagher"],
+      "image": "https://m.media-amazon.com/images/M/MV5BOGNiMjljZmEtMWE0OS00ZmZhLWI3ODctMWY1N2U3ODg0NzU0XkEyXkFqcGdeQXVyNDU2MTk4NDQ@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 15,
+      "season": 8,
+      "id": "s08e14",
+      "broadcast": {
+        "year": "2018",
+        "month": "04",
+        "date": "22"
+      },
+      "title": "Go Tina on the Mountain",
+      "summary": "The kids, at Tina's suggestion, go on a team building field trip, but, due to the rain, it does not turn out as Tina thought it would be. Meanwhile, with no kids in the house, Bob and Linda attempt to recapture their romantic spark, but end up falling asleep.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Nicole Byer", "Andrew Daly"],
+      "image": "https://m.media-amazon.com/images/M/MV5BYWM4MDI0NGUtMDYwMy00NjMyLTk5OTUtODk1MmE2YzA1MzA0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 16,
+      "season": 8,
+      "id": "s08e15",
+      "broadcast": {
+        "year": "2018",
+        "month": "04",
+        "date": "29"
+      },
+      "title": "Are You There Bob? It's Me, Birthday",
+      "summary": "The family forgets Bob's birthday, and attempt to make it up to him with a surprise party. Hugo and Ron distract Bob by taking him with them on their health inspection run.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Eddie Pepitone", "Ron Lynch", "Bobby Moynihan"],
+      "image": "https://m.media-amazon.com/images/M/MV5BZmJkNjE1MTgtNGE4Zi00NWVlLWIyNzYtMGI5OGJmMTQ2MTU3XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 17,
+      "season": 8,
+      "id": "s08e16",
+      "broadcast": {
+        "year": "2018",
+        "month": "05",
+        "date": "06"
+      },
+      "title": "Boywatch",
+      "summary": "Tina signs up to be a junior lifeguard just to meet boys. Meanwhile, Bob and Linda decide to allow their customers to use their Wi-Fi, but Sgt. Bosco does an undercover stung operation to find a hacker in their restaurant.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Natalie Palamides", "Fred Savage", "Gary Cole", "Rob HUebel"],
+      "image": "https://m.media-amazon.com/images/M/MV5BY2Y1ZWI4ZmEtNWUwZi00MmI5LTg3MTgtMDUwZGY1MzdmZDBhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 18,
+      "season": 8,
+      "id": "s08e17",
+      "broadcast": {
+        "year": "2018",
+        "month": "05",
+        "date": "13"
+      },
+      "title": "As I Walk Through the Alley of the Shadow of Ramps",
+      "summary": "Louise starts a turf war with a crazy food truck driver. Meanwhile, Linda keeps discouraging Gayle from quitting her new job.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Brooke DIllman", "Megan Mullally", "George Wallace"],
+      "image": "https://m.media-amazon.com/images/M/MV5BY2JmOTE4ZDEtMzdiOS00ZWYxLWEyOTUtOWEzOTU2MzhiMWFjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 19,
+      "season": 8,
+      "id": "s08e18",
+      "broadcast": {
+        "year": "2018",
+        "month": "05",
+        "date": "13"
+      },
+      "title": "Mo Mommy, Mo Problems",
+      "summary": "On Mother's Day, Linda convinces the family to attend open houses for free food, but starts to feel bad when she realizes she's cheating the newly mothered realtor. Meanwhile, the kids discover an old woman upset abotu her son trying to sell her house.",
+      "characters": [],
+      "tags": [],
+      "guests": [
+        "Andrea Savage",
+        "Stephanie Beatriz",
+        "Michael Cyril Creighton"
+      ],
+      "image": "https://m.media-amazon.com/images/M/MV5BYmRlMDBmMDgtMDc5Mi00YmU0LTg1ZDQtZWIyMjAyYTIwNDIwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 20,
+      "season": 8,
+      "id": "s08e19",
+      "broadcast": {
+        "year": "2018",
+        "month": "05",
+        "date": "20"
+      },
+      "title": "Mission Impos-slug-ble",
+      "summary": "After Tina snitches on Louise and gets her trading cards confiscated by Ms. LaBonz, the kids sneak to her house to reobtain them.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Billy Eichner"],
+      "image": "https://m.media-amazon.com/images/M/MV5BOWYyYTA0MTItNTVmZC00ZDY2LWJhMTMtMTE4YzMwYzE4ZDJmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+      "poster": ""
+    },
+    {
+      "episode": 21,
+      "season": 8,
+      "id": "s08e20",
+      "broadcast": {
+        "year": "2018",
+        "month": "05",
+        "date": "20"
+      },
+      "title": "Something Old, Something New, Something Bob Caters for You",
+      "summary": "A couple who met at the restaurant asks Bob to cater for their wedding, but everything goes wrong. Meanwhile, Linda is shocked the couple is marrying after only three months, and the kids have a photobombing contest.",
+      "characters": [],
+      "tags": [],
+      "guests": ["Pete Holmes", "Kulap Vilaysack"],
+      "image": "https://m.media-amazon.com/images/M/MV5BNjE4N2M2Y2UtMTE3Mi00NmZlLTg3NjctNDQ4MzE5NTNiYzllXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
+      "poster": ""
+    }
+  ]
+]
