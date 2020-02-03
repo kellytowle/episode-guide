@@ -1,11 +1,11 @@
 import { expect as expectCDK, matchTemplate, MatchStyle } from "@aws-cdk/assert"
 import * as cdk from "@aws-cdk/core"
-import Aws = require("../lib/aws-stack")
+import Aws = require("../lib/episode-guide-stack")
 
 test("Empty Stack", () => {
   const app = new cdk.App()
   // WHEN
-  const stack = new Aws.AwsStack(app, "MyTestStack")
+  const stack = new Aws.EpisodeGuideStack(app, "MyTestStack")
   // THEN
   expectCDK(stack).to(
     matchTemplate(
