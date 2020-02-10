@@ -1,0 +1,724 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Test 1`] = `
+Object {
+  "Outputs": Object {
+    "EpisodeGuideApiEndpoint27F7DEFB": Object {
+      "Value": Object {
+        "Fn::Join": Array [
+          "",
+          Array [
+            "https://",
+            Object {
+              "Ref": "EpisodeGuideApi7DA72B4C",
+            },
+            ".execute-api.",
+            Object {
+              "Ref": "AWS::Region",
+            },
+            ".",
+            Object {
+              "Ref": "AWS::URLSuffix",
+            },
+            "/",
+            Object {
+              "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC",
+            },
+            "/",
+          ],
+        ],
+      },
+    },
+    "QueryUrl": Object {
+      "Value": Object {
+        "Fn::Join": Array [
+          "",
+          Array [
+            "https://",
+            Object {
+              "Ref": "EpisodeGuideApi7DA72B4C",
+            },
+            ".execute-api.",
+            Object {
+              "Ref": "AWS::Region",
+            },
+            ".",
+            Object {
+              "Ref": "AWS::URLSuffix",
+            },
+            "/",
+            Object {
+              "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC",
+            },
+            "/query",
+          ],
+        ],
+      },
+    },
+    "SeasonsUrl": Object {
+      "Value": Object {
+        "Fn::Join": Array [
+          "",
+          Array [
+            "https://",
+            Object {
+              "Ref": "EpisodeGuideApi7DA72B4C",
+            },
+            ".execute-api.",
+            Object {
+              "Ref": "AWS::Region",
+            },
+            ".",
+            Object {
+              "Ref": "AWS::URLSuffix",
+            },
+            "/",
+            Object {
+              "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC",
+            },
+            "/seasons",
+          ],
+        ],
+      },
+    },
+  },
+  "Parameters": Object {
+    "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648ArtifactHashDC4FFF59": Object {
+      "Description": "Artifact hash for asset \\"156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648\\"",
+      "Type": "String",
+    },
+    "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3Bucket8F57D0DB": Object {
+      "Description": "S3 bucket for asset \\"156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648\\"",
+      "Type": "String",
+    },
+    "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3VersionKey3BE4BF93": Object {
+      "Description": "S3 key for asset version \\"156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648\\"",
+      "Type": "String",
+    },
+    "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67ArtifactHash3A654DBE": Object {
+      "Description": "Artifact hash for asset \\"250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67\\"",
+      "Type": "String",
+    },
+    "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3Bucket95054EE5": Object {
+      "Description": "S3 bucket for asset \\"250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67\\"",
+      "Type": "String",
+    },
+    "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3VersionKey571F8FF7": Object {
+      "Description": "S3 key for asset version \\"250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67\\"",
+      "Type": "String",
+    },
+  },
+  "Resources": Object {
+    "EpisodeGuideApi7DA72B4C": Object {
+      "Properties": Object {
+        "Name": "EpisodeGuideApi",
+      },
+      "Type": "AWS::ApiGateway::RestApi",
+    },
+    "EpisodeGuideApiAccountAFA02218": Object {
+      "DependsOn": Array [
+        "EpisodeGuideApi7DA72B4C",
+      ],
+      "Properties": Object {
+        "CloudWatchRoleArn": Object {
+          "Fn::GetAtt": Array [
+            "EpisodeGuideApiCloudWatchRoleE9354985",
+            "Arn",
+          ],
+        },
+      },
+      "Type": "AWS::ApiGateway::Account",
+    },
+    "EpisodeGuideApiCloudWatchRoleE9354985": Object {
+      "Properties": Object {
+        "AssumeRolePolicyDocument": Object {
+          "Statement": Array [
+            Object {
+              "Action": "sts:AssumeRole",
+              "Effect": "Allow",
+              "Principal": Object {
+                "Service": "apigateway.amazonaws.com",
+              },
+            },
+          ],
+          "Version": "2012-10-17",
+        },
+        "ManagedPolicyArns": Array [
+          Object {
+            "Fn::Join": Array [
+              "",
+              Array [
+                "arn:",
+                Object {
+                  "Ref": "AWS::Partition",
+                },
+                ":iam::aws:policy/service-role/AmazonAPIGatewayPushToCloudWatchLogs",
+              ],
+            ],
+          },
+        ],
+      },
+      "Type": "AWS::IAM::Role",
+    },
+    "EpisodeGuideApiDeployment7AE36ED73afb09a2dacb1096f161b132b12d47ed": Object {
+      "DependsOn": Array [
+        "QueryGET5223449D",
+        "Query435140A1",
+        "SeasonsGETCB023DE6",
+        "SeasonsF586C40A",
+      ],
+      "Properties": Object {
+        "Description": "Automatically created by the RestApi construct",
+        "RestApiId": Object {
+          "Ref": "EpisodeGuideApi7DA72B4C",
+        },
+      },
+      "Type": "AWS::ApiGateway::Deployment",
+    },
+    "EpisodeGuideApiDeploymentStageprod8C776DFC": Object {
+      "Properties": Object {
+        "DeploymentId": Object {
+          "Ref": "EpisodeGuideApiDeployment7AE36ED73afb09a2dacb1096f161b132b12d47ed",
+        },
+        "RestApiId": Object {
+          "Ref": "EpisodeGuideApi7DA72B4C",
+        },
+        "StageName": "prod",
+      },
+      "Type": "AWS::ApiGateway::Stage",
+    },
+    "EpisodeGuideBucketF53C0760": Object {
+      "DeletionPolicy": "Retain",
+      "Type": "AWS::S3::Bucket",
+      "UpdateReplacePolicy": "Retain",
+    },
+    "EpisodeGuideBucketKTEpisodeGuide9CBA7D86": Object {
+      "DeletionPolicy": "Retain",
+      "Type": "AWS::S3::Bucket",
+      "UpdateReplacePolicy": "Retain",
+    },
+    "EpisodeGuideBucketKTEpisodeGuidePolicy1273E383": Object {
+      "Properties": Object {
+        "Bucket": Object {
+          "Ref": "EpisodeGuideBucketKTEpisodeGuide9CBA7D86",
+        },
+        "PolicyDocument": Object {
+          "Statement": Array [
+            Object {
+              "Action": Array [
+                "s3:ListBucket",
+                "s3:GetBucketLocation",
+              ],
+              "Effect": "Allow",
+              "Principal": Object {
+                "AWS": Array [
+                  Object {
+                    "Fn::GetAtt": Array [
+                      "QueryHandlerServiceRole1E45AE91",
+                      "Arn",
+                    ],
+                  },
+                  Object {
+                    "Fn::GetAtt": Array [
+                      "SeasonsCountHandlerServiceRole62B89890",
+                      "Arn",
+                    ],
+                  },
+                ],
+              },
+              "Resource": Object {
+                "Fn::GetAtt": Array [
+                  "EpisodeGuideBucketKTEpisodeGuide9CBA7D86",
+                  "Arn",
+                ],
+              },
+            },
+            Object {
+              "Action": "s3:GetObject",
+              "Effect": "Allow",
+              "Principal": Object {
+                "AWS": Array [
+                  Object {
+                    "Fn::GetAtt": Array [
+                      "QueryHandlerServiceRole1E45AE91",
+                      "Arn",
+                    ],
+                  },
+                  Object {
+                    "Fn::GetAtt": Array [
+                      "SeasonsCountHandlerServiceRole62B89890",
+                      "Arn",
+                    ],
+                  },
+                ],
+              },
+              "Resource": Object {
+                "Fn::Join": Array [
+                  "",
+                  Array [
+                    Object {
+                      "Fn::GetAtt": Array [
+                        "EpisodeGuideBucketKTEpisodeGuide9CBA7D86",
+                        "Arn",
+                      ],
+                    },
+                    "/*",
+                  ],
+                ],
+              },
+            },
+          ],
+          "Version": "2012-10-17",
+        },
+      },
+      "Type": "AWS::S3::BucketPolicy",
+    },
+    "Query435140A1": Object {
+      "Properties": Object {
+        "ParentId": Object {
+          "Fn::GetAtt": Array [
+            "EpisodeGuideApi7DA72B4C",
+            "RootResourceId",
+          ],
+        },
+        "PathPart": "query",
+        "RestApiId": Object {
+          "Ref": "EpisodeGuideApi7DA72B4C",
+        },
+      },
+      "Type": "AWS::ApiGateway::Resource",
+    },
+    "QueryGET5223449D": Object {
+      "Properties": Object {
+        "AuthorizationType": "NONE",
+        "HttpMethod": "GET",
+        "Integration": Object {
+          "IntegrationHttpMethod": "POST",
+          "Type": "AWS_PROXY",
+          "Uri": Object {
+            "Fn::Join": Array [
+              "",
+              Array [
+                "arn:",
+                Object {
+                  "Ref": "AWS::Partition",
+                },
+                ":apigateway:",
+                Object {
+                  "Ref": "AWS::Region",
+                },
+                ":lambda:path/2015-03-31/functions/",
+                Object {
+                  "Fn::GetAtt": Array [
+                    "QueryHandler432DEBA0",
+                    "Arn",
+                  ],
+                },
+                "/invocations",
+              ],
+            ],
+          },
+        },
+        "ResourceId": Object {
+          "Ref": "Query435140A1",
+        },
+        "RestApiId": Object {
+          "Ref": "EpisodeGuideApi7DA72B4C",
+        },
+      },
+      "Type": "AWS::ApiGateway::Method",
+    },
+    "QueryGETApiPermissionEpisodeGuideStackEpisodeGuideApi299301FEGETqueryED6514DE": Object {
+      "Properties": Object {
+        "Action": "lambda:InvokeFunction",
+        "FunctionName": Object {
+          "Fn::GetAtt": Array [
+            "QueryHandler432DEBA0",
+            "Arn",
+          ],
+        },
+        "Principal": "apigateway.amazonaws.com",
+        "SourceArn": Object {
+          "Fn::Join": Array [
+            "",
+            Array [
+              "arn:",
+              Object {
+                "Ref": "AWS::Partition",
+              },
+              ":execute-api:",
+              Object {
+                "Ref": "AWS::Region",
+              },
+              ":",
+              Object {
+                "Ref": "AWS::AccountId",
+              },
+              ":",
+              Object {
+                "Ref": "EpisodeGuideApi7DA72B4C",
+              },
+              "/",
+              Object {
+                "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC",
+              },
+              "/GET/query",
+            ],
+          ],
+        },
+      },
+      "Type": "AWS::Lambda::Permission",
+    },
+    "QueryGETApiPermissionTestEpisodeGuideStackEpisodeGuideApi299301FEGETqueryF7ABBB1A": Object {
+      "Properties": Object {
+        "Action": "lambda:InvokeFunction",
+        "FunctionName": Object {
+          "Fn::GetAtt": Array [
+            "QueryHandler432DEBA0",
+            "Arn",
+          ],
+        },
+        "Principal": "apigateway.amazonaws.com",
+        "SourceArn": Object {
+          "Fn::Join": Array [
+            "",
+            Array [
+              "arn:",
+              Object {
+                "Ref": "AWS::Partition",
+              },
+              ":execute-api:",
+              Object {
+                "Ref": "AWS::Region",
+              },
+              ":",
+              Object {
+                "Ref": "AWS::AccountId",
+              },
+              ":",
+              Object {
+                "Ref": "EpisodeGuideApi7DA72B4C",
+              },
+              "/test-invoke-stage/GET/query",
+            ],
+          ],
+        },
+      },
+      "Type": "AWS::Lambda::Permission",
+    },
+    "QueryHandler432DEBA0": Object {
+      "DependsOn": Array [
+        "QueryHandlerServiceRole1E45AE91",
+      ],
+      "Properties": Object {
+        "Code": Object {
+          "S3Bucket": Object {
+            "Ref": "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3Bucket95054EE5",
+          },
+          "S3Key": Object {
+            "Fn::Join": Array [
+              "",
+              Array [
+                Object {
+                  "Fn::Select": Array [
+                    0,
+                    Object {
+                      "Fn::Split": Array [
+                        "||",
+                        Object {
+                          "Ref": "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3VersionKey571F8FF7",
+                        },
+                      ],
+                    },
+                  ],
+                },
+                Object {
+                  "Fn::Select": Array [
+                    1,
+                    Object {
+                      "Fn::Split": Array [
+                        "||",
+                        Object {
+                          "Ref": "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3VersionKey571F8FF7",
+                        },
+                      ],
+                    },
+                  ],
+                },
+              ],
+            ],
+          },
+        },
+        "Environment": Object {
+          "Variables": Object {
+            "S3_BUCKET": "",
+          },
+        },
+        "Handler": "index.handler",
+        "Role": Object {
+          "Fn::GetAtt": Array [
+            "QueryHandlerServiceRole1E45AE91",
+            "Arn",
+          ],
+        },
+        "Runtime": "nodejs12.x",
+      },
+      "Type": "AWS::Lambda::Function",
+    },
+    "QueryHandlerServiceRole1E45AE91": Object {
+      "Properties": Object {
+        "AssumeRolePolicyDocument": Object {
+          "Statement": Array [
+            Object {
+              "Action": "sts:AssumeRole",
+              "Effect": "Allow",
+              "Principal": Object {
+                "Service": "lambda.amazonaws.com",
+              },
+            },
+          ],
+          "Version": "2012-10-17",
+        },
+        "ManagedPolicyArns": Array [
+          Object {
+            "Fn::Join": Array [
+              "",
+              Array [
+                "arn:",
+                Object {
+                  "Ref": "AWS::Partition",
+                },
+                ":iam::aws:policy/service-role/AWSLambdaBasicExecutionRole",
+              ],
+            ],
+          },
+        ],
+      },
+      "Type": "AWS::IAM::Role",
+    },
+    "SeasonsCountHandler4B7D4365": Object {
+      "DependsOn": Array [
+        "SeasonsCountHandlerServiceRole62B89890",
+      ],
+      "Properties": Object {
+        "Code": Object {
+          "S3Bucket": Object {
+            "Ref": "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3Bucket8F57D0DB",
+          },
+          "S3Key": Object {
+            "Fn::Join": Array [
+              "",
+              Array [
+                Object {
+                  "Fn::Select": Array [
+                    0,
+                    Object {
+                      "Fn::Split": Array [
+                        "||",
+                        Object {
+                          "Ref": "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3VersionKey3BE4BF93",
+                        },
+                      ],
+                    },
+                  ],
+                },
+                Object {
+                  "Fn::Select": Array [
+                    1,
+                    Object {
+                      "Fn::Split": Array [
+                        "||",
+                        Object {
+                          "Ref": "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3VersionKey3BE4BF93",
+                        },
+                      ],
+                    },
+                  ],
+                },
+              ],
+            ],
+          },
+        },
+        "Environment": Object {
+          "Variables": Object {
+            "S3_BUCKET": "",
+          },
+        },
+        "Handler": "index.handler",
+        "Role": Object {
+          "Fn::GetAtt": Array [
+            "SeasonsCountHandlerServiceRole62B89890",
+            "Arn",
+          ],
+        },
+        "Runtime": "nodejs12.x",
+      },
+      "Type": "AWS::Lambda::Function",
+    },
+    "SeasonsCountHandlerServiceRole62B89890": Object {
+      "Properties": Object {
+        "AssumeRolePolicyDocument": Object {
+          "Statement": Array [
+            Object {
+              "Action": "sts:AssumeRole",
+              "Effect": "Allow",
+              "Principal": Object {
+                "Service": "lambda.amazonaws.com",
+              },
+            },
+          ],
+          "Version": "2012-10-17",
+        },
+        "ManagedPolicyArns": Array [
+          Object {
+            "Fn::Join": Array [
+              "",
+              Array [
+                "arn:",
+                Object {
+                  "Ref": "AWS::Partition",
+                },
+                ":iam::aws:policy/service-role/AWSLambdaBasicExecutionRole",
+              ],
+            ],
+          },
+        ],
+      },
+      "Type": "AWS::IAM::Role",
+    },
+    "SeasonsF586C40A": Object {
+      "Properties": Object {
+        "ParentId": Object {
+          "Fn::GetAtt": Array [
+            "EpisodeGuideApi7DA72B4C",
+            "RootResourceId",
+          ],
+        },
+        "PathPart": "seasons",
+        "RestApiId": Object {
+          "Ref": "EpisodeGuideApi7DA72B4C",
+        },
+      },
+      "Type": "AWS::ApiGateway::Resource",
+    },
+    "SeasonsGETApiPermissionEpisodeGuideStackEpisodeGuideApi299301FEGETseasons3C6DAEE4": Object {
+      "Properties": Object {
+        "Action": "lambda:InvokeFunction",
+        "FunctionName": Object {
+          "Fn::GetAtt": Array [
+            "SeasonsCountHandler4B7D4365",
+            "Arn",
+          ],
+        },
+        "Principal": "apigateway.amazonaws.com",
+        "SourceArn": Object {
+          "Fn::Join": Array [
+            "",
+            Array [
+              "arn:",
+              Object {
+                "Ref": "AWS::Partition",
+              },
+              ":execute-api:",
+              Object {
+                "Ref": "AWS::Region",
+              },
+              ":",
+              Object {
+                "Ref": "AWS::AccountId",
+              },
+              ":",
+              Object {
+                "Ref": "EpisodeGuideApi7DA72B4C",
+              },
+              "/",
+              Object {
+                "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC",
+              },
+              "/GET/seasons",
+            ],
+          ],
+        },
+      },
+      "Type": "AWS::Lambda::Permission",
+    },
+    "SeasonsGETApiPermissionTestEpisodeGuideStackEpisodeGuideApi299301FEGETseasons60FF751B": Object {
+      "Properties": Object {
+        "Action": "lambda:InvokeFunction",
+        "FunctionName": Object {
+          "Fn::GetAtt": Array [
+            "SeasonsCountHandler4B7D4365",
+            "Arn",
+          ],
+        },
+        "Principal": "apigateway.amazonaws.com",
+        "SourceArn": Object {
+          "Fn::Join": Array [
+            "",
+            Array [
+              "arn:",
+              Object {
+                "Ref": "AWS::Partition",
+              },
+              ":execute-api:",
+              Object {
+                "Ref": "AWS::Region",
+              },
+              ":",
+              Object {
+                "Ref": "AWS::AccountId",
+              },
+              ":",
+              Object {
+                "Ref": "EpisodeGuideApi7DA72B4C",
+              },
+              "/test-invoke-stage/GET/seasons",
+            ],
+          ],
+        },
+      },
+      "Type": "AWS::Lambda::Permission",
+    },
+    "SeasonsGETCB023DE6": Object {
+      "Properties": Object {
+        "AuthorizationType": "NONE",
+        "HttpMethod": "GET",
+        "Integration": Object {
+          "IntegrationHttpMethod": "POST",
+          "Type": "AWS_PROXY",
+          "Uri": Object {
+            "Fn::Join": Array [
+              "",
+              Array [
+                "arn:",
+                Object {
+                  "Ref": "AWS::Partition",
+                },
+                ":apigateway:",
+                Object {
+                  "Ref": "AWS::Region",
+                },
+                ":lambda:path/2015-03-31/functions/",
+                Object {
+                  "Fn::GetAtt": Array [
+                    "SeasonsCountHandler4B7D4365",
+                    "Arn",
+                  ],
+                },
+                "/invocations",
+              ],
+            ],
+          },
+        },
+        "ResourceId": Object {
+          "Ref": "SeasonsF586C40A",
+        },
+        "RestApiId": Object {
+          "Ref": "EpisodeGuideApi7DA72B4C",
+        },
+      },
+      "Type": "AWS::ApiGateway::Method",
+    },
+  },
+}
+`;

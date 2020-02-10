@@ -19,11 +19,9 @@ export class EpisodeGuideStack extends Stack {
     this._rootDir = PATH_TO_ROOT
 
     this.bucket = new EpisodeGuideBucket(this)
-    this._bucketName = Token.isUnresolved(this.bucket.bucketName)
-      ? process.env.S3_BUCKET || ""
-      : this.bucket.bucketName
+    this._bucketName = Token.isUnresolved(this.bucket.bucketName) ? process.env.S3_BUCKET || "" : this.bucket.bucketName
 
-    this.lambdas = new EpisodeGuideLambdas(this)
+    this.lambdas = new EpisodeGuideLambdas(this, this._rootDir)
     this.lambdas.addEnvVarToLambda("S3_BUCKET", this._bucketName)
 
     this.bucket.addReadPermsToLambda(this.lambdas.query, this.lambdas.seasons)

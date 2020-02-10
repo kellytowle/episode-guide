@@ -1,0 +1,735 @@
+{
+  "Resources": {
+    "EpisodeGuideBucketF53C0760": {
+      "Type": "AWS::S3::Bucket",
+      "UpdateReplacePolicy": "Retain",
+      "DeletionPolicy": "Retain",
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/EpisodeGuideBucket/Resource"
+      }
+    },
+    "EpisodeGuideBucketKTEpisodeGuide9CBA7D86": {
+      "Type": "AWS::S3::Bucket",
+      "Properties": {
+        "BucketName": "kt-episode-guide"
+      },
+      "UpdateReplacePolicy": "Retain",
+      "DeletionPolicy": "Retain",
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/EpisodeGuideBucket/KT-Episode-Guide/Resource"
+      }
+    },
+    "EpisodeGuideBucketKTEpisodeGuidePolicy1273E383": {
+      "Type": "AWS::S3::BucketPolicy",
+      "Properties": {
+        "Bucket": {
+          "Ref": "EpisodeGuideBucketKTEpisodeGuide9CBA7D86"
+        },
+        "PolicyDocument": {
+          "Statement": [
+            {
+              "Action": [
+                "s3:ListBucket",
+                "s3:GetBucketLocation"
+              ],
+              "Effect": "Allow",
+              "Principal": {
+                "AWS": [
+                  {
+                    "Fn::GetAtt": [
+                      "QueryHandlerServiceRole1E45AE91",
+                      "Arn"
+                    ]
+                  },
+                  {
+                    "Fn::GetAtt": [
+                      "SeasonsCountHandlerServiceRole62B89890",
+                      "Arn"
+                    ]
+                  }
+                ]
+              },
+              "Resource": {
+                "Fn::GetAtt": [
+                  "EpisodeGuideBucketKTEpisodeGuide9CBA7D86",
+                  "Arn"
+                ]
+              }
+            },
+            {
+              "Action": "s3:GetObject",
+              "Effect": "Allow",
+              "Principal": {
+                "AWS": [
+                  {
+                    "Fn::GetAtt": [
+                      "QueryHandlerServiceRole1E45AE91",
+                      "Arn"
+                    ]
+                  },
+                  {
+                    "Fn::GetAtt": [
+                      "SeasonsCountHandlerServiceRole62B89890",
+                      "Arn"
+                    ]
+                  }
+                ]
+              },
+              "Resource": {
+                "Fn::Join": [
+                  "",
+                  [
+                    {
+                      "Fn::GetAtt": [
+                        "EpisodeGuideBucketKTEpisodeGuide9CBA7D86",
+                        "Arn"
+                      ]
+                    },
+                    "/*"
+                  ]
+                ]
+              }
+            }
+          ],
+          "Version": "2012-10-17"
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/EpisodeGuideBucket/KT-Episode-Guide/Policy/Resource"
+      }
+    },
+    "QueryHandlerServiceRole1E45AE91": {
+      "Type": "AWS::IAM::Role",
+      "Properties": {
+        "AssumeRolePolicyDocument": {
+          "Statement": [
+            {
+              "Action": "sts:AssumeRole",
+              "Effect": "Allow",
+              "Principal": {
+                "Service": "lambda.amazonaws.com"
+              }
+            }
+          ],
+          "Version": "2012-10-17"
+        },
+        "ManagedPolicyArns": [
+          {
+            "Fn::Join": [
+              "",
+              [
+                "arn:",
+                {
+                  "Ref": "AWS::Partition"
+                },
+                ":iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+              ]
+            ]
+          }
+        ]
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/QueryHandler/ServiceRole/Resource"
+      }
+    },
+    "QueryHandler432DEBA0": {
+      "Type": "AWS::Lambda::Function",
+      "Properties": {
+        "Code": {
+          "S3Bucket": {
+            "Ref": "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3Bucket95054EE5"
+          },
+          "S3Key": {
+            "Fn::Join": [
+              "",
+              [
+                {
+                  "Fn::Select": [
+                    0,
+                    {
+                      "Fn::Split": [
+                        "||",
+                        {
+                          "Ref": "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3VersionKey571F8FF7"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Fn::Select": [
+                    1,
+                    {
+                      "Fn::Split": [
+                        "||",
+                        {
+                          "Ref": "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3VersionKey571F8FF7"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        },
+        "Handler": "index.handler",
+        "Role": {
+          "Fn::GetAtt": [
+            "QueryHandlerServiceRole1E45AE91",
+            "Arn"
+          ]
+        },
+        "Runtime": "nodejs12.x",
+        "Environment": {
+          "Variables": {
+            "S3_BUCKET": "kt-episode-guide"
+          }
+        }
+      },
+      "DependsOn": [
+        "QueryHandlerServiceRole1E45AE91"
+      ],
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/QueryHandler/Resource",
+        "aws:asset:path": "asset.250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67",
+        "aws:asset:property": "Code"
+      }
+    },
+    "SeasonsCountHandlerServiceRole62B89890": {
+      "Type": "AWS::IAM::Role",
+      "Properties": {
+        "AssumeRolePolicyDocument": {
+          "Statement": [
+            {
+              "Action": "sts:AssumeRole",
+              "Effect": "Allow",
+              "Principal": {
+                "Service": "lambda.amazonaws.com"
+              }
+            }
+          ],
+          "Version": "2012-10-17"
+        },
+        "ManagedPolicyArns": [
+          {
+            "Fn::Join": [
+              "",
+              [
+                "arn:",
+                {
+                  "Ref": "AWS::Partition"
+                },
+                ":iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+              ]
+            ]
+          }
+        ]
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/SeasonsCountHandler/ServiceRole/Resource"
+      }
+    },
+    "SeasonsCountHandler4B7D4365": {
+      "Type": "AWS::Lambda::Function",
+      "Properties": {
+        "Code": {
+          "S3Bucket": {
+            "Ref": "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3Bucket8F57D0DB"
+          },
+          "S3Key": {
+            "Fn::Join": [
+              "",
+              [
+                {
+                  "Fn::Select": [
+                    0,
+                    {
+                      "Fn::Split": [
+                        "||",
+                        {
+                          "Ref": "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3VersionKey3BE4BF93"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "Fn::Select": [
+                    1,
+                    {
+                      "Fn::Split": [
+                        "||",
+                        {
+                          "Ref": "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3VersionKey3BE4BF93"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        },
+        "Handler": "index.handler",
+        "Role": {
+          "Fn::GetAtt": [
+            "SeasonsCountHandlerServiceRole62B89890",
+            "Arn"
+          ]
+        },
+        "Runtime": "nodejs12.x",
+        "Environment": {
+          "Variables": {
+            "S3_BUCKET": "kt-episode-guide"
+          }
+        }
+      },
+      "DependsOn": [
+        "SeasonsCountHandlerServiceRole62B89890"
+      ],
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/SeasonsCountHandler/Resource",
+        "aws:asset:path": "asset.156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648",
+        "aws:asset:property": "Code"
+      }
+    },
+    "EpisodeGuideApi7DA72B4C": {
+      "Type": "AWS::ApiGateway::RestApi",
+      "Properties": {
+        "Name": "EpisodeGuideApi"
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/EpisodeGuideApi/Resource"
+      }
+    },
+    "EpisodeGuideApiDeployment7AE36ED74baabc89c9b02447c0762249f8d06a3e": {
+      "Type": "AWS::ApiGateway::Deployment",
+      "Properties": {
+        "RestApiId": {
+          "Ref": "EpisodeGuideApi7DA72B4C"
+        },
+        "Description": "Automatically created by the RestApi construct"
+      },
+      "DependsOn": [
+        "QueryGET5223449D",
+        "Query435140A1",
+        "SeasonsGETCB023DE6",
+        "SeasonsF586C40A"
+      ],
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/EpisodeGuideApi/Deployment/Resource"
+      }
+    },
+    "EpisodeGuideApiDeploymentStageprod8C776DFC": {
+      "Type": "AWS::ApiGateway::Stage",
+      "Properties": {
+        "RestApiId": {
+          "Ref": "EpisodeGuideApi7DA72B4C"
+        },
+        "DeploymentId": {
+          "Ref": "EpisodeGuideApiDeployment7AE36ED74baabc89c9b02447c0762249f8d06a3e"
+        },
+        "StageName": "prod"
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/EpisodeGuideApi/DeploymentStage.prod/Resource"
+      }
+    },
+    "EpisodeGuideApiCloudWatchRoleE9354985": {
+      "Type": "AWS::IAM::Role",
+      "Properties": {
+        "AssumeRolePolicyDocument": {
+          "Statement": [
+            {
+              "Action": "sts:AssumeRole",
+              "Effect": "Allow",
+              "Principal": {
+                "Service": "apigateway.amazonaws.com"
+              }
+            }
+          ],
+          "Version": "2012-10-17"
+        },
+        "ManagedPolicyArns": [
+          {
+            "Fn::Join": [
+              "",
+              [
+                "arn:",
+                {
+                  "Ref": "AWS::Partition"
+                },
+                ":iam::aws:policy/service-role/AmazonAPIGatewayPushToCloudWatchLogs"
+              ]
+            ]
+          }
+        ]
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/EpisodeGuideApi/CloudWatchRole/Resource"
+      }
+    },
+    "EpisodeGuideApiAccountAFA02218": {
+      "Type": "AWS::ApiGateway::Account",
+      "Properties": {
+        "CloudWatchRoleArn": {
+          "Fn::GetAtt": [
+            "EpisodeGuideApiCloudWatchRoleE9354985",
+            "Arn"
+          ]
+        }
+      },
+      "DependsOn": [
+        "EpisodeGuideApi7DA72B4C"
+      ],
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/EpisodeGuideApi/Account"
+      }
+    },
+    "Query435140A1": {
+      "Type": "AWS::ApiGateway::Resource",
+      "Properties": {
+        "ParentId": {
+          "Fn::GetAtt": [
+            "EpisodeGuideApi7DA72B4C",
+            "RootResourceId"
+          ]
+        },
+        "PathPart": "query",
+        "RestApiId": {
+          "Ref": "EpisodeGuideApi7DA72B4C"
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/Query/Resource"
+      }
+    },
+    "QueryGETApiPermissionEpisodeGuideStackEpisodeGuideApi299301FEGETqueryED6514DE": {
+      "Type": "AWS::Lambda::Permission",
+      "Properties": {
+        "Action": "lambda:InvokeFunction",
+        "FunctionName": {
+          "Fn::GetAtt": [
+            "QueryHandler432DEBA0",
+            "Arn"
+          ]
+        },
+        "Principal": "apigateway.amazonaws.com",
+        "SourceArn": {
+          "Fn::Join": [
+            "",
+            [
+              "arn:",
+              {
+                "Ref": "AWS::Partition"
+              },
+              ":execute-api:us-west-2:562726346948:",
+              {
+                "Ref": "EpisodeGuideApi7DA72B4C"
+              },
+              "/",
+              {
+                "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC"
+              },
+              "/GET/query"
+            ]
+          ]
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/Query/GET/ApiPermission.EpisodeGuideStackEpisodeGuideApi299301FE.GET..query"
+      }
+    },
+    "QueryGETApiPermissionTestEpisodeGuideStackEpisodeGuideApi299301FEGETqueryF7ABBB1A": {
+      "Type": "AWS::Lambda::Permission",
+      "Properties": {
+        "Action": "lambda:InvokeFunction",
+        "FunctionName": {
+          "Fn::GetAtt": [
+            "QueryHandler432DEBA0",
+            "Arn"
+          ]
+        },
+        "Principal": "apigateway.amazonaws.com",
+        "SourceArn": {
+          "Fn::Join": [
+            "",
+            [
+              "arn:",
+              {
+                "Ref": "AWS::Partition"
+              },
+              ":execute-api:us-west-2:562726346948:",
+              {
+                "Ref": "EpisodeGuideApi7DA72B4C"
+              },
+              "/test-invoke-stage/GET/query"
+            ]
+          ]
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/Query/GET/ApiPermission.Test.EpisodeGuideStackEpisodeGuideApi299301FE.GET..query"
+      }
+    },
+    "QueryGET5223449D": {
+      "Type": "AWS::ApiGateway::Method",
+      "Properties": {
+        "HttpMethod": "GET",
+        "ResourceId": {
+          "Ref": "Query435140A1"
+        },
+        "RestApiId": {
+          "Ref": "EpisodeGuideApi7DA72B4C"
+        },
+        "AuthorizationType": "NONE",
+        "Integration": {
+          "IntegrationHttpMethod": "POST",
+          "Type": "AWS_PROXY",
+          "Uri": {
+            "Fn::Join": [
+              "",
+              [
+                "arn:",
+                {
+                  "Ref": "AWS::Partition"
+                },
+                ":apigateway:us-west-2:lambda:path/2015-03-31/functions/",
+                {
+                  "Fn::GetAtt": [
+                    "QueryHandler432DEBA0",
+                    "Arn"
+                  ]
+                },
+                "/invocations"
+              ]
+            ]
+          }
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/Query/GET/Resource"
+      }
+    },
+    "SeasonsF586C40A": {
+      "Type": "AWS::ApiGateway::Resource",
+      "Properties": {
+        "ParentId": {
+          "Fn::GetAtt": [
+            "EpisodeGuideApi7DA72B4C",
+            "RootResourceId"
+          ]
+        },
+        "PathPart": "seasons",
+        "RestApiId": {
+          "Ref": "EpisodeGuideApi7DA72B4C"
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/Seasons/Resource"
+      }
+    },
+    "SeasonsGETApiPermissionEpisodeGuideStackEpisodeGuideApi299301FEGETseasons3C6DAEE4": {
+      "Type": "AWS::Lambda::Permission",
+      "Properties": {
+        "Action": "lambda:InvokeFunction",
+        "FunctionName": {
+          "Fn::GetAtt": [
+            "SeasonsCountHandler4B7D4365",
+            "Arn"
+          ]
+        },
+        "Principal": "apigateway.amazonaws.com",
+        "SourceArn": {
+          "Fn::Join": [
+            "",
+            [
+              "arn:",
+              {
+                "Ref": "AWS::Partition"
+              },
+              ":execute-api:us-west-2:562726346948:",
+              {
+                "Ref": "EpisodeGuideApi7DA72B4C"
+              },
+              "/",
+              {
+                "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC"
+              },
+              "/GET/seasons"
+            ]
+          ]
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/Seasons/GET/ApiPermission.EpisodeGuideStackEpisodeGuideApi299301FE.GET..seasons"
+      }
+    },
+    "SeasonsGETApiPermissionTestEpisodeGuideStackEpisodeGuideApi299301FEGETseasons60FF751B": {
+      "Type": "AWS::Lambda::Permission",
+      "Properties": {
+        "Action": "lambda:InvokeFunction",
+        "FunctionName": {
+          "Fn::GetAtt": [
+            "SeasonsCountHandler4B7D4365",
+            "Arn"
+          ]
+        },
+        "Principal": "apigateway.amazonaws.com",
+        "SourceArn": {
+          "Fn::Join": [
+            "",
+            [
+              "arn:",
+              {
+                "Ref": "AWS::Partition"
+              },
+              ":execute-api:us-west-2:562726346948:",
+              {
+                "Ref": "EpisodeGuideApi7DA72B4C"
+              },
+              "/test-invoke-stage/GET/seasons"
+            ]
+          ]
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/Seasons/GET/ApiPermission.Test.EpisodeGuideStackEpisodeGuideApi299301FE.GET..seasons"
+      }
+    },
+    "SeasonsGETCB023DE6": {
+      "Type": "AWS::ApiGateway::Method",
+      "Properties": {
+        "HttpMethod": "GET",
+        "ResourceId": {
+          "Ref": "SeasonsF586C40A"
+        },
+        "RestApiId": {
+          "Ref": "EpisodeGuideApi7DA72B4C"
+        },
+        "AuthorizationType": "NONE",
+        "Integration": {
+          "IntegrationHttpMethod": "POST",
+          "Type": "AWS_PROXY",
+          "Uri": {
+            "Fn::Join": [
+              "",
+              [
+                "arn:",
+                {
+                  "Ref": "AWS::Partition"
+                },
+                ":apigateway:us-west-2:lambda:path/2015-03-31/functions/",
+                {
+                  "Fn::GetAtt": [
+                    "SeasonsCountHandler4B7D4365",
+                    "Arn"
+                  ]
+                },
+                "/invocations"
+              ]
+            ]
+          }
+        }
+      },
+      "Metadata": {
+        "aws:cdk:path": "EpisodeGuideStack/Seasons/GET/Resource"
+      }
+    }
+  },
+  "Parameters": {
+    "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3Bucket95054EE5": {
+      "Type": "String",
+      "Description": "S3 bucket for asset \"250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67\""
+    },
+    "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67S3VersionKey571F8FF7": {
+      "Type": "String",
+      "Description": "S3 key for asset version \"250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67\""
+    },
+    "AssetParameters250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67ArtifactHash3A654DBE": {
+      "Type": "String",
+      "Description": "Artifact hash for asset \"250e9aaf3fa414035c3a280e6d4437ffc904dce18cf1a2c619339abfd3b3ff67\""
+    },
+    "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3Bucket8F57D0DB": {
+      "Type": "String",
+      "Description": "S3 bucket for asset \"156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648\""
+    },
+    "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648S3VersionKey3BE4BF93": {
+      "Type": "String",
+      "Description": "S3 key for asset version \"156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648\""
+    },
+    "AssetParameters156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648ArtifactHashDC4FFF59": {
+      "Type": "String",
+      "Description": "Artifact hash for asset \"156513a893f782daf583e83d6979bccb3e57f4df78c0778a88c260bd2ca22648\""
+    }
+  },
+  "Outputs": {
+    "EpisodeGuideApiEndpoint27F7DEFB": {
+      "Value": {
+        "Fn::Join": [
+          "",
+          [
+            "https://",
+            {
+              "Ref": "EpisodeGuideApi7DA72B4C"
+            },
+            ".execute-api.us-west-2.",
+            {
+              "Ref": "AWS::URLSuffix"
+            },
+            "/",
+            {
+              "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC"
+            },
+            "/"
+          ]
+        ]
+      }
+    },
+    "QueryUrl": {
+      "Value": {
+        "Fn::Join": [
+          "",
+          [
+            "https://",
+            {
+              "Ref": "EpisodeGuideApi7DA72B4C"
+            },
+            ".execute-api.us-west-2.",
+            {
+              "Ref": "AWS::URLSuffix"
+            },
+            "/",
+            {
+              "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC"
+            },
+            "/query"
+          ]
+        ]
+      }
+    },
+    "SeasonsUrl": {
+      "Value": {
+        "Fn::Join": [
+          "",
+          [
+            "https://",
+            {
+              "Ref": "EpisodeGuideApi7DA72B4C"
+            },
+            ".execute-api.us-west-2.",
+            {
+              "Ref": "AWS::URLSuffix"
+            },
+            "/",
+            {
+              "Ref": "EpisodeGuideApiDeploymentStageprod8C776DFC"
+            },
+            "/seasons"
+          ]
+        ]
+      }
+    }
+  }
+}
