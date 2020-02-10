@@ -47,7 +47,7 @@ describe("EpisodeGuideApi", () => {
         }),
       )
       expectCDK(stack).to(
-        countResourcesLike("AWS::ApiGateway::Method", 2, {
+        countResourcesLike("AWS::ApiGateway::Method", 1, {
           ResourceId: resourceId,
         }),
       )
